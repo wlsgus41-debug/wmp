@@ -1,0 +1,1091 @@
+2026-09-21 21:34:26: 🎵 World Music Player Server is running on http://localhost:3001
+2026-09-21 21:34:55: 🎵 World Music Player Server is running on http://localhost:3001
+2026-09-21 21:36:29: 🎵 World Music Player Server is running on http://localhost:3001
+2026-09-21 21:36:38: [오후 9:36:38] GET /health
+2026-09-21 21:42:10: [오후 9:42:10] GET /api/charts/melon
+2026-09-21 21:42:10: [오후 9:42:10] GET /api/trending-keywords
+2026-09-21 21:42:10: [오후 9:42:10] GET /api/trending-keywords
+2026-09-21 21:42:10: [오후 9:42:10] GET /api/charts/melon
+2026-09-21 21:42:31: [오후 9:42:31] GET /api/search?q=%EC%B0%90%EC%9D%B4%EC%95%BC&source=youtube
+2026-09-21 21:42:47: [오후 9:42:47] GET /api/search?q=%EC%B0%90%EC%9D%B4%EC%95%BC&source=melon
+2026-09-21 21:42:49: [오후 9:42:49] GET /api/match?title=%EC%B0%90%EC%9D%B4%EC%95%BC&artist=%EC%98%81%ED%83%81,+%EC%98%81%ED%83%81
+2026-09-21 21:42:51: [오후 9:42:51] GET /api/lyrics?title=%EC%B0%90%EC%9D%B4%EC%95%BC&artist=%EC%98%81%ED%83%81,+%EC%98%81%ED%83%81&source=all
+2026-09-21 21:43:10: [오후 9:43:10] GET /api/trending-keywords
+2026-09-21 21:43:47: [오후 9:43:47] GET /api/new-songs/melon
+2026-09-21 21:43:48: [오후 9:43:48] GET /api/new-songs/melon
+2026-09-21 21:43:56: [오후 9:43:56] GET /api/match?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER
+2026-09-21 21:43:57: [오후 9:43:57] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=all
+2026-09-21 21:44:10: [오후 9:44:10] GET /api/trending-keywords
+2026-09-21 21:45:10: [오후 9:45:10] GET /api/trending-keywords
+2026-09-21 21:46:10: [오후 9:46:10] GET /api/trending-keywords
+2026-09-21 21:47:04: [오후 9:47:04] GET /api/lyrics?title=%EC%B0%90%EC%9D%B4%EC%95%BC&artist=%EC%98%81%ED%83%81,+%EC%98%81%ED%83%81&source=all
+2026-09-21 21:47:10: [오후 9:47:10] GET /api/trending-keywords
+2026-09-21 21:47:17: [오후 9:47:17] GET /api/match?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER
+2026-09-21 21:47:27: [오후 9:47:27] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=all
+2026-09-21 21:47:51: [오후 9:47:51] GET /api/new-songs/genie
+2026-09-21 21:47:51: [오후 9:47:51] GET /api/new-songs/genie
+2026-09-21 21:47:54: [오후 9:47:54] GET /api/new-songs/flo
+2026-09-21 21:47:54: [오후 9:47:54] GET /api/new-songs/flo
+2026-09-21 21:47:56: [오후 9:47:56] GET /api/new-songs/bugs
+2026-09-21 21:48:00: [오후 9:48:00] GET /api/new-songs/bugs
+2026-09-21 21:48:02: [오후 9:48:02] GET /api/new-songs/youtube
+2026-09-21 21:48:03: [오후 9:48:03] GET /api/new-songs/youtube
+2026-09-21 21:48:05: [오후 9:48:05] GET /api/new-songs/melon
+2026-09-21 21:48:05: [오후 9:48:05] GET /api/new-songs/melon
+2026-09-21 21:48:10: [오후 9:48:10] GET /api/trending-keywords
+2026-09-21 21:49:10: [오후 9:49:10] GET /api/trending-keywords
+2026-09-21 21:50:08: [오후 9:50:08] GET /api/charts/melon
+2026-09-21 21:50:10: [오후 9:50:10] GET /api/trending-keywords
+2026-09-21 21:50:27: [오후 9:50:27] GET /api/search?q=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&source=youtube
+2026-09-21 21:51:10: [오후 9:51:10] GET /api/trending-keywords
+2026-09-21 21:53:51: [오후 9:53:51] GET /api/trending-keywords
+2026-09-21 21:53:52: [오후 9:53:52] GET /api/charts/melon
+2026-09-21 21:53:52: [오후 9:53:52] GET /api/trending-keywords
+2026-09-21 21:53:52: [오후 9:53:52] GET /api/charts/melon
+2026-09-21 21:53:52: [오후 9:53:52] GET /api/trending-keywords
+2026-09-21 21:55:56: [오후 9:55:56] GET /api/trending-keywords
+2026-09-21 21:56:06: [오후 9:56:06] GET /api/charts/melon
+2026-09-21 21:56:06: [오후 9:56:06] GET /api/trending-keywords
+2026-09-21 21:56:06: [오후 9:56:06] GET /api/charts/melon
+2026-09-21 21:56:06: [오후 9:56:06] GET /api/trending-keywords
+2026-09-21 21:57:06: [오후 9:57:06] GET /api/trending-keywords
+2026-09-21 21:58:06: [오후 9:58:06] GET /api/trending-keywords
+2026-09-21 21:59:06: [오후 9:59:06] GET /api/trending-keywords
+2026-09-21 21:59:39: [오후 9:59:39] GET /api/search?q=%EC%95%84%EC%9D%B4%EB%B8%8C&source=melon
+2026-09-21 22:00:06: [오후 10:00:06] GET /api/trending-keywords
+2026-09-21 22:01:06: [오후 10:01:06] GET /api/trending-keywords
+2026-09-21 22:02:06: [오후 10:02:06] GET /api/trending-keywords
+2026-09-21 22:03:06: [오후 10:03:06] GET /api/trending-keywords
+2026-09-21 22:04:06: [오후 10:04:06] GET /api/trending-keywords
+2026-09-21 22:05:06: [오후 10:05:06] GET /api/trending-keywords
+2026-09-21 23:01:59: [오후 11:01:59] GET /api/trending-keywords
+2026-09-21 23:01:59: [오후 11:01:59] GET /api/charts/melon
+2026-09-21 23:01:59: [오후 11:01:59] GET /api/trending-keywords
+2026-09-21 23:01:59: [오후 11:01:59] GET /api/charts/melon
+2026-09-21 23:01:59: [오후 11:01:59] GET /api/trending-keywords
+2026-09-21 23:02:59: [오후 11:02:59] GET /api/trending-keywords
+2026-09-21 23:03:23: [오후 11:03:23] GET /api/charts/melon
+2026-09-21 23:03:23: [오후 11:03:23] GET /api/trending-keywords
+2026-09-21 23:03:24: [오후 11:03:24] GET /api/charts/melon
+2026-09-21 23:03:24: [오후 11:03:24] GET /api/trending-keywords
+2026-09-21 23:03:45: [오후 11:03:45] GET /api/new-songs/melon
+2026-09-21 23:03:45: [오후 11:03:45] GET /api/new-songs/melon
+2026-09-21 23:04:22: [오후 11:04:22] GET /api/search?q=%EC%86%8C%EB%85%80%EC%8B%9C%EB%8C%80&source=melon
+2026-09-21 23:04:24: [오후 11:04:24] GET /api/trending-keywords
+2026-09-21 23:04:43: [오후 11:04:43] GET /api/search?q=%EC%9D%B4%EC%8A%B9%EC%B2%A0+%EC%86%8C%EB%85%80%EC%8B%9C%EB%8C%80&source=melon
+2026-09-21 23:05:01: [오후 11:05:01] GET /api/charts/melon
+2026-09-21 23:05:24: [오후 11:05:24] GET /api/trending-keywords
+2026-09-21 23:06:15: [오후 11:06:15] GET /api/match?title=LOVE+ATTACK&artist=RESCENE%C2%A0(%EB%A6%AC%EC%84%BC%EB%8A%90)
+2026-09-21 23:06:17: [오후 11:06:17] GET /api/lyrics?title=LOVE+ATTACK&artist=RESCENE%C2%A0(%EB%A6%AC%EC%84%BC%EB%8A%90)&source=all
+2026-09-21 23:06:24: [오후 11:06:24] GET /api/trending-keywords
+2026-09-21 23:07:24: [오후 11:07:24] GET /api/trending-keywords
+2026-09-21 23:07:25: [오후 11:07:25] GET /api/charts/melon
+2026-09-21 23:07:25: [오후 11:07:25] GET /api/trending-keywords
+2026-09-21 23:07:25: [오후 11:07:25] GET /api/charts/melon
+2026-09-21 23:07:25: [오후 11:07:25] GET /api/trending-keywords
+2026-09-21 23:07:44: [오후 11:07:44] GET /api/match?title=%ED%87%B4%EC%82%AC%ED%95%A0%EA%B2%8C%EC%97%AC+(Narr.+%EA%B8%B0%EC%95%8884)&artist=%EC%86%8C%EC%97%B0%C2%A0(SOYEON)
+2026-09-21 23:07:46: [오후 11:07:46] GET /api/lyrics?title=%ED%87%B4%EC%82%AC%ED%95%A0%EA%B2%8C%EC%97%AC+(Narr.+%EA%B8%B0%EC%95%8884)&artist=%EC%86%8C%EC%97%B0%C2%A0(SOYEON)&source=all
+2026-09-21 23:08:15: [오후 11:08:15] GET /api/match?title=LOVE+ATTACK&artist=RESCENE%C2%A0(%EB%A6%AC%EC%84%BC%EB%8A%90)
+2026-09-21 23:08:17: [오후 11:08:17] GET /api/lyrics?title=LOVE+ATTACK&artist=RESCENE%C2%A0(%EB%A6%AC%EC%84%BC%EB%8A%90)&source=all
+2026-09-21 23:08:25: [오후 11:08:25] GET /api/trending-keywords
+2026-09-21 23:08:45: [오후 11:08:45] GET /api/search?q=%EA%B7%B8+%EA%B0%95%EC%9D%84+%EA%B1%B4%EB%84%88%EC%A7%80+%EB%A7%88%EC%98%A4&source=melon
+2026-09-21 23:08:49: [오후 11:08:49] GET /api/match?title=%EA%B7%B8+%EA%B0%95%EC%9D%84+%EA%B1%B4%EB%84%88%EC%A7%80%EB%A7%88%EC%98%A4&artist=%EC%96%91%EC%A7%80%EC%9D%80,+%EC%96%91%EC%A7%80%EC%9D%80
+2026-09-21 23:08:50: [오후 11:08:50] GET /api/lyrics?title=%EA%B7%B8+%EA%B0%95%EC%9D%84+%EA%B1%B4%EB%84%88%EC%A7%80%EB%A7%88%EC%98%A4&artist=%EC%96%91%EC%A7%80%EC%9D%80,+%EC%96%91%EC%A7%80%EC%9D%80&source=all
+2026-09-21 23:09:06: [오후 11:09:06] GET /api/lyrics?title=LOVE+ATTACK&artist=RESCENE%C2%A0(%EB%A6%AC%EC%84%BC%EB%8A%90)&source=all
+2026-09-21 23:09:06: [오후 11:09:06] GET /api/lyrics?title=%ED%87%B4%EC%82%AC%ED%95%A0%EA%B2%8C%EC%97%AC+(Narr.+%EA%B8%B0%EC%95%8884)&artist=%EC%86%8C%EC%97%B0%C2%A0(SOYEON)&source=all
+2026-09-21 23:09:25: [오후 11:09:25] GET /api/trending-keywords
+2026-09-21 23:10:25: [오후 11:10:25] GET /api/trending-keywords
+2026-09-21 23:10:36: [오후 11:10:36] GET /api/match?title=LOVE+ATTACK&artist=RESCENE%C2%A0(%EB%A6%AC%EC%84%BC%EB%8A%90)
+2026-09-21 23:10:38: [오후 11:10:38] GET /api/lyrics?title=LOVE+ATTACK&artist=RESCENE%C2%A0(%EB%A6%AC%EC%84%BC%EB%8A%90)&source=all
+2026-09-21 23:10:44: [오후 11:10:44] GET /api/mv/platforms
+2026-09-21 23:10:44: [오후 11:10:44] GET /api/mv/melon_new
+2026-09-21 23:10:44: [오후 11:10:44] GET /api/mv/platforms
+2026-09-21 23:10:45: [오후 11:10:45] GET /api/mv/melon_new
+2026-09-21 23:10:47: [오후 11:10:47] GET /api/years
+2026-09-21 23:10:47: [오후 11:10:47] GET /api/years
+2026-09-21 23:10:47: [오후 11:10:47] GET /api/years/2026
+2026-09-21 23:10:52: [오후 11:10:52] GET /api/years/2026
+2026-09-21 23:11:12: [오후 11:11:12] GET /api/lyrics?title=QWER-01-SHOW+DOWN-SHOW+DOWN-192&artist=Local+Artist&source=all
+2026-09-21 23:11:25: [오후 11:11:25] GET /api/trending-keywords
+2026-09-21 23:12:25: [오후 11:12:25] GET /api/trending-keywords
+2026-09-21 23:12:39: [오후 11:12:39] GET /api/charts/melon
+2026-09-21 23:12:41: [오후 11:12:41] GET /api/charts/genie
+2026-09-21 23:12:42: [오후 11:12:42] GET /api/charts/flo
+2026-09-21 23:12:44: [오후 11:12:44] GET /api/charts/bugs
+2026-09-21 23:12:46: [오후 11:12:46] GET /api/charts/flo
+2026-09-21 23:12:47: [오후 11:12:47] GET /api/charts/flo?age=70-80
+2026-09-21 23:12:49: [오후 11:12:49] GET /api/charts/flo?age=50-60
+2026-09-21 23:12:50: [오후 11:12:50] GET /api/charts/flo?age=30-40
+2026-09-21 23:12:51: [오후 11:12:51] GET /api/charts/flo?age=10-20
+2026-09-21 23:12:52: [오후 11:12:52] GET /api/charts/flo
+2026-09-21 23:12:53: [오후 11:12:53] GET /api/charts/flo?age=50-60
+2026-09-21 23:12:54: [오후 11:12:54] GET /api/charts/flo?age=70-80
+2026-09-21 23:13:03: [오후 11:13:03] GET /api/charts/flo?age=50-60
+2026-09-21 23:13:20: [오후 11:13:20] GET /api/charts/flo?age=70-80
+2026-09-21 23:13:22: [오후 11:13:22] GET /api/charts/flo?age=30-40
+2026-09-21 23:13:25: [오후 11:13:25] GET /api/trending-keywords
+2026-09-21 23:13:34: [오후 11:13:34] GET /api/charts/flo?age=10-20
+2026-09-21 23:13:42: [오후 11:13:42] GET /api/charts/flo?age=30-40
+2026-09-21 23:13:44: [오후 11:13:44] GET /api/charts/flo?age=10-20
+2026-09-21 23:13:58: [오후 11:13:58] GET /api/charts/melon
+2026-09-21 23:14:25: [오후 11:14:25] GET /api/trending-keywords
+2026-09-21 23:14:39: [오후 11:14:39] GET /api/search?q=%EA%B7%B8+%EA%B0%95%EC%9D%84+%EA%B1%B4%EB%84%88%EC%A7%80+%EB%A7%88%EC%98%A4&source=spotify
+2026-09-21 23:15:10: [오후 11:15:10] GET /api/search?q=%EA%B7%B8+%EA%B0%95%EC%9D%84+%EA%B1%B4%EB%84%88%EC%A7%80+%EB%A7%88%EC%98%A4&source=melon
+2026-09-21 23:15:24: [오후 11:15:24] GET /api/search?q=show+down&source=melon
+2026-09-21 23:15:25: [오후 11:15:25] GET /api/trending-keywords
+2026-09-21 23:15:29: [오후 11:15:29] GET /api/match?title=SHOW+DOWN&artist=QWER,+QWER
+2026-09-21 23:15:30: [오후 11:15:30] GET /api/lyrics?title=SHOW+DOWN&artist=QWER,+QWER&source=all
+2026-09-21 23:15:37: [오후 11:15:37] GET /api/search?q=show+down&source=bugs
+2026-09-21 23:15:43: [오후 11:15:43] GET /api/search?q=show+down&source=melon
+2026-09-21 23:15:47: [오후 11:15:47] GET /api/search?q=show+down&source=bugs
+2026-09-21 23:15:48: [오후 11:15:48] GET /api/match?title=SHOW+DOWN&artist=QWER
+2026-09-21 23:15:50: [오후 11:15:50] GET /api/lyrics?title=SHOW+DOWN&artist=QWER&source=all
+2026-09-21 23:16:25: [오후 11:16:25] GET /api/trending-keywords
+2026-09-21 23:16:53: [오후 11:16:53] GET /api/lyrics?title=QWER-01-SHOW+DOWN-SHOW+DOWN-192&artist=Local+Artist&source=all
+2026-09-21 23:17:25: [오후 11:17:25] GET /api/trending-keywords
+2026-09-21 23:18:25: [오후 11:18:25] GET /api/trending-keywords
+2026-09-21 23:18:26: [오후 11:18:26] GET /api/search?q=show+down&source=bugs
+2026-09-21 23:19:25: [오후 11:19:25] GET /api/trending-keywords
+2026-09-21 23:20:23: [오후 11:20:23] GET /api/search?q=Aria.J&source=melon
+2026-09-21 23:20:25: [오후 11:20:25] GET /api/trending-keywords
+2026-09-21 23:20:33: [오후 11:20:33] GET /api/search?q=%EC%A0%95%EC%95%84%EB%A6%AC%EC%95%84&source=melon
+2026-09-21 23:20:42: [오후 11:20:42] GET /api/search?q=%EC%A0%95%EC%95%84%EB%A6%AC%EC%95%84&source=bugs
+2026-09-21 23:20:47: [오후 11:20:47] GET /api/match?title=%EB%B0%A4%EC%9D%84+%EB%8B%AC%EB%A0%A4+(Driving+in+the+Night)&artist=Aria.J+(%EC%A0%95%EC%95%84%EB%A6%AC%EC%95%84)
+2026-09-21 23:20:49: [오후 11:20:49] GET /api/lyrics?title=%EB%B0%A4%EC%9D%84+%EB%8B%AC%EB%A0%A4+(Driving+in+the+Night)&artist=Aria.J+(%EC%A0%95%EC%95%84%EB%A6%AC%EC%95%84)&source=all
+2026-09-21 23:20:58: [오후 11:20:58] GET /api/charts/melon
+2026-09-21 23:21:25: [오후 11:21:25] GET /api/trending-keywords
+2026-09-21 23:21:51: [오후 11:21:51] GET /api/lyrics?title=SHOW+DOWN&artist=QWER,+QWER&source=all
+2026-09-21 23:22:25: [오후 11:22:25] GET /api/trending-keywords
+2026-09-21 23:23:25: [오후 11:23:25] GET /api/trending-keywords
+2026-09-21 23:24:24: [오후 11:24:24] GET /api/search?q=%EC%A0%95%EC%95%84%EB%A6%AC%EC%95%84&source=bugs
+2026-09-21 23:24:25: [오후 11:24:25] GET /api/trending-keywords
+2026-09-21 23:24:29: [오후 11:24:29] GET /api/match?title=Reset&artist=Aria.J+(%EC%A0%95%EC%95%84%EB%A6%AC%EC%95%84)
+2026-09-21 23:24:31: [오후 11:24:31] GET /api/lyrics?title=Reset&artist=Aria.J+(%EC%A0%95%EC%95%84%EB%A6%AC%EC%95%84)&source=all
+2026-09-21 23:24:39: [오후 11:24:39] GET /api/lyrics?title=Reset&artist=Aria.J+(%EC%A0%95%EC%95%84%EB%A6%AC%EC%95%84)&source=melon
+2026-09-21 23:24:45: [오후 11:24:45] GET /api/lyrics?title=Reset&artist=Aria.J+(%EC%A0%95%EC%95%84%EB%A6%AC%EC%95%84)&source=bugs
+2026-09-21 23:25:12: [오후 11:25:12] GET /api/search?q=%EB%AC%B8%EC%9C%A4%EC%8A%AC&source=bugs
+2026-09-21 23:25:17: [오후 11:25:17] GET /api/match?title=Reset&artist=%EB%AC%B8%EC%9C%A4%EC%8A%AC
+2026-09-21 23:25:18: [오후 11:25:18] GET /api/lyrics?title=Reset&artist=%EB%AC%B8%EC%9C%A4%EC%8A%AC&source=bugs
+2026-09-21 23:25:25: [오후 11:25:25] GET /api/trending-keywords
+2026-09-21 23:25:40: [오후 11:25:40] GET /api/search?q=%EB%AC%B8%EC%9C%A4%EC%8A%AC&source=bugs
+2026-09-21 23:25:42: [오후 11:25:42] GET /api/match?title=%ED%97%88%EC%83%81(%E8%99%9B%E5%83%8F)&artist=%EB%AC%B8%EC%9C%A4%EC%8A%AC
+2026-09-21 23:25:44: [오후 11:25:44] GET /api/lyrics?title=%ED%97%88%EC%83%81(%E8%99%9B%E5%83%8F)&artist=%EB%AC%B8%EC%9C%A4%EC%8A%AC&source=bugs
+2026-09-21 23:26:25: [오후 11:26:25] GET /api/trending-keywords
+2026-09-21 23:26:31: [오후 11:26:31] GET /api/search?q=%EB%8F%99%ED%9D%AC&source=bugs
+2026-09-21 23:26:35: [오후 11:26:35] GET /api/match?title=Good+Morning&artist=%EB%8F%99%ED%9D%AC(Donghee)
+2026-09-21 23:26:36: [오후 11:26:36] GET /api/lyrics?title=Good+Morning&artist=%EB%8F%99%ED%9D%AC(Donghee)&source=bugs
+2026-09-21 23:26:37: [오후 11:26:37] GET /api/lyrics?title=%ED%97%88%EC%83%81(%E8%99%9B%E5%83%8F)&artist=%EB%AC%B8%EC%9C%A4%EC%8A%AC&source=bugs
+2026-09-21 23:26:41: [오후 11:26:41] GET /api/lyrics?title=Good+Morning&artist=%EB%8F%99%ED%9D%AC(Donghee)&source=bugs
+2026-09-21 23:26:44: [오후 11:26:44] GET /api/lyrics?title=Good+Morning&artist=%EB%8F%99%ED%9D%AC(Donghee)&source=all
+2026-09-21 23:27:07: [오후 11:27:07] GET /api/search?q=%EB%8F%99%ED%9D%AC+Good+Morning&source=bugs
+2026-09-21 23:27:11: [오후 11:27:11] GET /api/match?title=Good+Morning&artist=%EB%8F%99%ED%9D%AC(Donghee)
+2026-09-21 23:27:25: [오후 11:27:25] GET /api/trending-keywords
+2026-09-21 23:28:25: [오후 11:28:25] GET /api/trending-keywords
+2026-09-21 23:29:25: [오후 11:29:25] GET /api/trending-keywords
+2026-09-21 23:31:32: 🎵 World Music Player Server is running on http://localhost:3001
+2026-09-21 23:38:52: 🎵 World Music Player Server is running on http://localhost:3001
+2026-09-22 00:21:25: 🎵 World Music Player Server is running on http://localhost:3001
+2026-09-22 00:21:26: [오전 12:21:26] GET /api/charts/melon
+2026-09-22 00:21:26: [오전 12:21:26] GET /api/trending-keywords
+2026-09-22 00:21:27: [오전 12:21:27] GET /api/trending-keywords
+2026-09-22 00:21:27: [오전 12:21:27] GET /api/charts/melon
+2026-09-22 09:03:51: 🎵 World Music Player Server is running on http://localhost:3001
+2026-09-22 09:03:53: [오전 9:03:53] GET /api/trending-keywords
+2026-09-22 09:03:53: [오전 9:03:53] GET /api/charts/melon
+2026-09-22 09:03:58: [오전 9:03:58] GET /api/trending-keywords
+2026-09-22 09:04:01: [오전 9:04:01] GET /api/charts/melon
+2026-09-22 09:04:11: [오전 9:04:11] GET /api/charts/melon
+2026-09-22 09:04:19: [오전 9:04:19] GET /api/charts/melon
+2026-09-22 09:04:53: [오전 9:04:53] GET /api/trending-keywords
+2026-09-22 09:05:53: [오전 9:05:53] GET /api/trending-keywords
+2026-09-22 09:06:53: [오전 9:06:53] GET /api/trending-keywords
+2026-09-22 09:07:33: [오전 9:07:33] GET /api/charts/melon
+2026-09-22 09:07:51: [오전 9:07:51] GET /api/new-songs/melon
+2026-09-22 09:07:52: [오전 9:07:52] GET /api/new-songs/melon
+2026-09-22 09:07:53: [오전 9:07:53] GET /api/trending-keywords
+2026-09-22 09:07:53: [오전 9:07:53] GET /api/mv/platforms
+2026-09-22 09:07:53: [오전 9:07:53] GET /api/mv/melon_new
+2026-09-22 09:07:53: [오전 9:07:53] GET /api/mv/platforms
+2026-09-22 09:07:54: [오전 9:07:54] GET /api/mv/melon_new
+2026-09-22 09:07:56: [오전 9:07:56] GET /api/new-songs/melon
+2026-09-22 09:07:56: [오전 9:07:56] GET /api/new-songs/melon
+2026-09-22 09:07:57: [오전 9:07:57] GET /api/match?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER
+2026-09-22 09:08:04: [matchYouTubeTrack (Official MV)] "소년만화 - QWER" top candidates:
+2026-09-22 09:08:04:   #1 [84.0] "QWER-소년만화 (DREAMER) M/V 팬메이드" by 편집하는 바위게 (3:08)
+2026-09-22 09:08:04:   #2 [70.0] "QWER - 소년만화 [가사/Lyrics]" by 웅키 (3:07)
+2026-09-22 09:08:04:   #3 [70.0] "QWER - 소년만화(1,2일차 교차편집Ver.)" by 낭만 (3:11)
+2026-09-22 09:08:04: [오전 9:08:04] GET /api/match?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER
+2026-09-22 09:08:04: [오전 9:08:04] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=all
+2026-09-22 09:08:10: [matchYouTubeTrack (Official MV)] "소년만화 - QWER" top candidates:
+2026-09-22 09:08:10:   #1 [84.0] "QWER-소년만화 (DREAMER) M/V 팬메이드" by 편집하는 바위게 (3:08)
+2026-09-22 09:08:10:   #2 [70.0] "QWER - 소년만화 [가사/Lyrics]" by 웅키 (3:07)
+2026-09-22 09:08:10:   #3 [50.0] "Shonen Manga v6" by QWER (3:21)
+2026-09-22 09:08:52: [오전 9:08:52] GET /api/trending-keywords
+2026-09-22 09:09:52: [오전 9:09:52] GET /api/trending-keywords
+2026-09-22 09:11:13: [오전 9:11:13] GET /api/trending-keywords
+2026-09-22 09:11:26: [오전 9:11:26] GET /api/charts/melon
+2026-09-22 09:11:26: [오전 9:11:26] GET /api/trending-keywords
+2026-09-22 09:11:26: [오전 9:11:26] GET /api/charts/melon
+2026-09-22 09:11:26: [오전 9:11:26] GET /api/trending-keywords
+2026-09-22 09:11:29: [오전 9:11:29] GET /api/charts/genie
+2026-09-22 09:11:30: [오전 9:11:30] GET /api/new-songs/melon
+2026-09-22 09:11:30: [오전 9:11:30] GET /api/new-songs/melon
+2026-09-22 09:11:30: [오전 9:11:30] GET /api/match?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER
+2026-09-22 09:11:37: [matchYouTubeTrack (Official MV)] "소년만화 - QWER" top candidates:
+2026-09-22 09:11:37:   #1 [84.0] "QWER-소년만화 (DREAMER) M/V 팬메이드" by 편집하는 바위게 (3:08)
+2026-09-22 09:11:37:   #2 [70.0] "QWER - 소년만화 [가사/Lyrics]" by 웅키 (3:07)
+2026-09-22 09:11:37:   #3 [50.0] "Shonen Manga v6" by QWER (3:21)
+2026-09-22 09:11:37: [오전 9:11:37] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=all
+2026-09-22 09:12:26: [오전 9:12:26] GET /api/trending-keywords
+2026-09-22 09:12:31: [오전 9:12:31] GET /api/years
+2026-09-22 09:12:31: [오전 9:12:31] GET /api/years
+2026-09-22 09:12:31: [오전 9:12:31] GET /api/years/2026
+2026-09-22 09:12:32: [오전 9:12:32] GET /api/mv/platforms
+2026-09-22 09:12:32: [오전 9:12:32] GET /api/mv/melon_new
+2026-09-22 09:12:32: [오전 9:12:32] GET /api/mv/melon_new
+2026-09-22 09:12:32: [오전 9:12:32] GET /api/mv/platforms
+2026-09-22 09:12:33: [오전 9:12:33] GET /api/new-songs/melon
+2026-09-22 09:12:33: [오전 9:12:33] GET /api/new-songs/melon
+2026-09-22 09:12:34: [오전 9:12:34] GET /api/charts/genie
+2026-09-22 09:12:35: [오전 9:12:35] GET /api/years/2026
+2026-09-22 09:13:26: [오전 9:13:26] GET /api/trending-keywords
+2026-09-22 09:14:04: [오전 9:14:04] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=spotify
+2026-09-22 09:14:05: [오전 9:14:05] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=melon
+2026-09-22 09:14:07: [오전 9:14:07] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=genie
+2026-09-22 09:14:08: [오전 9:14:08] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=bugs
+2026-09-22 09:14:10: [오전 9:14:10] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=flo
+2026-09-22 09:14:11: [오전 9:14:11] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=youtube
+2026-09-22 09:14:20: [오전 9:14:20] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=all
+2026-09-22 09:14:23: [오전 9:14:23] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=youtube
+2026-09-22 09:14:26: [오전 9:14:26] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=all
+2026-09-22 09:14:26: [오전 9:14:26] GET /api/trending-keywords
+2026-09-22 09:14:27: [오전 9:14:27] GET /api/new-songs/melon
+2026-09-22 09:14:27: [오전 9:14:27] GET /api/new-songs/melon
+2026-09-22 09:14:29: [오전 9:14:29] GET /api/new-songs/melon
+2026-09-22 09:14:33: [오전 9:14:33] GET /api/new-songs/genie
+2026-09-22 09:14:33: [오전 9:14:33] GET /api/new-songs/genie
+2026-09-22 09:14:35: [오전 9:14:35] GET /api/new-songs/flo
+2026-09-22 09:14:36: [오전 9:14:36] GET /api/new-songs/flo
+2026-09-22 09:15:01: [오전 9:15:01] GET /api/search?q=%EC%9E%8A%EC%97%88%EB%8B%88&source=melon
+2026-09-22 09:15:06: [오전 9:15:06] GET /api/match?title=%EC%9E%8A%EC%97%88%EB%8B%88&artist=%EC%9D%B4%EC%8A%B9%EC%B2%A0,+%EC%9D%B4%EC%8A%B9%EC%B2%A0
+2026-09-22 09:15:12: [matchYouTubeTrack (Official MV)] "잊었니 - 이승철, 이승철" top candidates:
+2026-09-22 09:15:12:   #1 [83.0] "[Official Audio] 이승철(Lee Seung Chul) - 잊었니(Did You Forget)" by RIAK OFFICIAL (3:14)
+2026-09-22 09:15:12:   #2 [60.0] "이승철 - 잊었니 [신들의 만찬 OST] [가사/Lyrics]" by 웅키 (3:14)
+2026-09-22 09:15:12:   #3 [60.0] "💠잊었니..  - 이승철 -  (가사有)" by 해피U희열 (3:16)
+2026-09-22 09:15:12: [오전 9:15:12] GET /api/lyrics?title=%EC%9E%8A%EC%97%88%EB%8B%88&artist=%EC%9D%B4%EC%8A%B9%EC%B2%A0,+%EC%9D%B4%EC%8A%B9%EC%B2%A0&source=all
+2026-09-22 09:15:19: [오전 9:15:19] GET /api/search?q=%EC%9E%8A%EC%97%88%EB%8B%88&source=bugs
+2026-09-22 09:15:26: [오전 9:15:26] GET /api/trending-keywords
+2026-09-22 09:15:26: [오전 9:15:26] GET /api/match?title=%EC%9E%8A%EC%97%88%EB%8B%88&artist=%EC%9D%B4%EC%8A%B9%EC%B2%A0
+2026-09-22 09:15:31: [matchYouTubeTrack (Official MV)] "잊었니 - 이승철" top candidates:
+2026-09-22 09:15:31:   #1 [93.0] "[Official Audio] 이승철(Lee Seung Chul) - 잊었니(Did You Forget)" by RIAK OFFICIAL (3:14)
+2026-09-22 09:15:31:   #2 [70.0] "이승철 - 잊었니 [신들의 만찬 OST] [가사/Lyrics]" by 웅키 (3:14)
+2026-09-22 09:15:31:   #3 [70.0] "💠잊었니..  - 이승철 -  (가사有)" by 해피U희열 (3:16)
+2026-09-22 09:15:31: [오전 9:15:31] GET /api/lyrics?title=%EC%9E%8A%EC%97%88%EB%8B%88&artist=%EC%9D%B4%EC%8A%B9%EC%B2%A0&source=all
+2026-09-22 09:16:26: [오전 9:16:26] GET /api/trending-keywords
+2026-09-22 09:17:27: [오전 9:17:27] GET /api/trending-keywords
+2026-09-22 09:17:48: [오전 9:17:48] GET /api/search?q=%EC%9E%8A%EC%97%88%EB%8B%88&source=genie
+2026-09-22 09:17:53: [오전 9:17:53] GET /api/search?q=%EC%9E%8A%EC%97%88%EB%8B%88&source=flo
+2026-09-22 09:17:56: [오전 9:17:56] GET /api/match?title=%EC%9E%8A%EC%97%88%EB%8B%88&artist=%ED%98%84%EC%8A%B9%EB%AF%BC-H
+2026-09-22 09:18:01: [matchYouTubeTrack (Official MV)] "잊었니 - 현승민-H" top candidates:
+2026-09-22 09:18:01:   #1 [68.3] "현승민-H - 잊었니 (speed up)" by 피스303 (3:20)
+2026-09-22 09:18:01:   #2 [65.4] "현승민 - 잊었니 #현승민 #잊었니 #H_잊었니 #2003년 #2000년대명곡 #추억의노래 #싸이월드감성 #R&B명곡 #뮤직비디오 #팬메이드MV #레트로감성 #비주얼아트" by Loft Music (3:53)
+2026-09-22 09:18:01:   #3 [60.0] "H(현승민) - 잊었니" by 어게인리그렛Againregret (3:54)
+2026-09-22 09:18:01: [오전 9:18:01] GET /api/lyrics?title=%EC%9E%8A%EC%97%88%EB%8B%88&artist=%ED%98%84%EC%8A%B9%EB%AF%BC-H&source=all
+2026-09-22 09:18:26: [오전 9:18:26] GET /api/trending-keywords
+2026-09-22 09:18:31: [오전 9:18:31] GET /api/search?q=%EB%AF%B8%EC%B9%9C+%EC%82%AC%EB%9E%91%EC%9D%98+%EB%85%B8%EB%9E%98&source=flo
+2026-09-22 09:18:38: [오전 9:18:38] GET /api/match?title=%EB%AF%B8%EC%B9%9C+%EC%82%AC%EB%9E%91%EC%9D%98+%EB%85%B8%EB%9E%98&artist=%EC%94%A8%EC%95%BC
+2026-09-22 09:18:42: [matchYouTubeTrack (Official MV)] "미친 사랑의 노래 - 씨야" top candidates:
+2026-09-22 09:18:42:   #1 [95.0] "씨야 (SeeYa) - 미친 사랑의 노래 (Crazy Love Song)" by 씨야 [Seeya] (4:03)
+2026-09-22 09:18:42:   #2 [72.5] "미친 사랑의 노래-씨야(SeeYa)" by 싸이월드 (4:31)
+2026-09-22 09:18:42:   #3 [66.7] "[MV] 씨야(SeeYa) "Lovely Sweet Heart" - 사랑의 인사" by DanalEntertainment (6:08)
+2026-09-22 09:18:42: [오전 9:18:42] GET /api/lyrics?title=%EB%AF%B8%EC%B9%9C+%EC%82%AC%EB%9E%91%EC%9D%98+%EB%85%B8%EB%9E%98&artist=%EC%94%A8%EC%95%BC&source=all
+2026-09-22 09:19:00: [오전 9:19:00] GET /api/new-songs/flo
+2026-09-22 09:19:10: [오전 9:19:10] GET /api/new-songs/genie
+2026-09-22 09:19:10: [오전 9:19:10] GET /api/new-songs/genie
+2026-09-22 09:19:18: [오전 9:19:18] GET /api/new-songs/melon
+2026-09-22 09:19:18: [오전 9:19:18] GET /api/new-songs/melon
+2026-09-22 09:19:26: [오전 9:19:26] GET /api/trending-keywords
+2026-09-22 09:19:45: [오전 9:19:45] GET /api/lyrics?title=%EC%9E%8A%EC%97%88%EB%8B%88&artist=%ED%98%84%EC%8A%B9%EB%AF%BC-H&source=all
+2026-09-22 09:20:26: [오전 9:20:26] GET /api/trending-keywords
+2026-09-22 09:21:20: [오전 9:21:20] GET /api/search?q=%EB%8A%91%EB%8C%80%EC%99%80%EC%9D%98+%EC%B6%A4%EC%9D%84&source=flo
+2026-09-22 09:21:26: [오전 9:21:26] GET /api/trending-keywords
+2026-09-22 09:21:35: [오전 9:21:35] GET /api/search?q=%EB%8A%91%EB%8C%80%EC%99%80+%ED%95%A8%EA%BB%98+%EC%B6%A4%EC%9D%84&source=flo
+2026-09-22 09:22:18: [오전 9:22:18] GET /api/match?title=%EB%8A%91%EB%8C%80%EC%99%80+%ED%95%A8%EA%BB%98+%EC%B6%A4%EC%9D%84&artist=%EC%9E%84%EC%B0%BD%EC%A0%95
+2026-09-22 09:22:27: [matchYouTubeTrack (Official MV)] "늑대와 함께 춤을 - 임창정" top candidates:
+2026-09-22 09:22:27:   #1 [72.5] "임창정 - '늑대와 함께 춤을'" by Again 가요톱10 : KBS KPOP Classic (3:03)
+2026-09-22 09:22:27:   #2 [72.5] "임창정   늑대와 함께 춤을 (가사 첨부)" by HANKOOK NORE (4:14)
+2026-09-22 09:22:27:   #3 [72.5] "(1998) 임창정 - 늑대와 함께 춤을 [싱크가사/Lyric Video]" by 디스크맨 Discman (4:14)
+2026-09-22 09:22:27: [오전 9:22:27] GET /api/trending-keywords
+2026-09-22 09:22:27: [오전 9:22:27] GET /api/lyrics?title=%EB%8A%91%EB%8C%80%EC%99%80+%ED%95%A8%EA%BB%98+%EC%B6%A4%EC%9D%84&artist=%EC%9E%84%EC%B0%BD%EC%A0%95&source=all
+2026-09-22 09:23:17: [오전 9:23:17] GET /api/search?q=%EB%8A%91%EB%8C%80%EC%99%80+%ED%95%A8%EA%BB%98+%EC%B6%A4%EC%9D%84&source=flo
+2026-09-22 09:23:26: [오전 9:23:26] GET /api/trending-keywords
+2026-09-22 09:23:29: [오전 9:23:29] GET /api/lyrics?title=%EB%AF%B8%EC%B9%9C+%EC%82%AC%EB%9E%91%EC%9D%98+%EB%85%B8%EB%9E%98&artist=%EC%94%A8%EC%95%BC&source=all
+2026-09-22 09:24:23: [오전 9:24:23] GET /api/lyrics?title=%EC%9E%8A%EC%97%88%EB%8B%88&artist=%ED%98%84%EC%8A%B9%EB%AF%BC-H&source=all
+2026-09-22 09:24:26: [오전 9:24:26] GET /api/trending-keywords
+2026-09-22 09:25:26: [오전 9:25:26] GET /api/trending-keywords
+2026-09-22 09:25:32: [오전 9:25:32] GET /api/search?q=%ED%9D%B0%EC%88%98%EC%97%BC%EA%B3%A0%EB%9E%98&source=flo
+2026-09-22 09:26:27: [오전 9:26:27] GET /api/trending-keywords
+2026-09-22 09:28:13: [오전 9:28:13] GET /api/trending-keywords
+2026-09-22 09:29:13: [오전 9:29:13] GET /api/trending-keywords
+2026-09-22 09:30:13: [오전 9:30:13] GET /api/trending-keywords
+2026-09-22 09:31:13: [오전 9:31:13] GET /api/trending-keywords
+2026-09-22 09:32:13: [오전 9:32:13] GET /api/trending-keywords
+2026-09-22 09:33:13: [오전 9:33:13] GET /api/trending-keywords
+2026-09-22 09:34:13: [오전 9:34:13] GET /api/trending-keywords
+2026-09-22 09:35:13: [오전 9:35:13] GET /api/trending-keywords
+2026-09-22 09:36:13: [오전 9:36:13] GET /api/trending-keywords
+2026-09-22 09:36:26: [오전 9:36:26] GET /api/trending-keywords
+2026-09-22 09:36:27: [오전 9:36:27] GET /api/search?q=%ED%9D%B0%EC%88%98%EC%97%BC%EA%B3%A0%EB%9E%98&source=youtube
+2026-09-22 09:36:51: [오전 9:36:51] GET /api/new-songs/flo
+2026-09-22 09:36:51: [오전 9:36:51] GET /api/new-songs/flo
+2026-09-22 09:37:03: [오전 9:37:03] GET /api/new-songs/bugs
+2026-09-22 09:37:07: [오전 9:37:07] GET /api/new-songs/bugs
+2026-09-22 09:37:19: [오전 9:37:19] GET /api/new-songs/youtube
+2026-09-22 09:37:21: [오전 9:37:21] GET /api/new-songs/youtube
+2026-09-22 09:37:22: [오전 9:37:22] GET /api/new-songs/melon
+2026-09-22 09:37:22: [오전 9:37:22] GET /api/new-songs/melon
+2026-09-22 09:37:26: [오전 9:37:26] GET /api/trending-keywords
+2026-09-22 09:37:35: [오전 9:37:35] GET /api/charts/genie
+2026-09-22 09:38:23: [오전 9:38:23] GET /api/charts/melon
+2026-09-22 09:38:26: [오전 9:38:26] GET /api/trending-keywords
+2026-09-22 09:39:27: [오전 9:39:27] GET /api/trending-keywords
+2026-09-22 09:41:13: [오전 9:41:13] GET /api/trending-keywords
+2026-09-22 09:42:13: [오전 9:42:13] GET /api/trending-keywords
+2026-09-22 09:43:13: [오전 9:43:13] GET /api/trending-keywords
+2026-09-22 09:44:13: [오전 9:44:13] GET /api/trending-keywords
+2026-09-22 09:45:13: [오전 9:45:13] GET /api/trending-keywords
+2026-09-22 09:46:13: [오전 9:46:13] GET /api/trending-keywords
+2026-09-22 09:47:13: [오전 9:47:13] GET /api/trending-keywords
+2026-09-22 09:48:13: [오전 9:48:13] GET /api/trending-keywords
+2026-09-22 09:49:13: [오전 9:49:13] GET /api/trending-keywords
+2026-09-22 09:50:13: [오전 9:50:13] GET /api/trending-keywords
+2026-09-22 09:51:13: [오전 9:51:13] GET /api/trending-keywords
+2026-09-22 09:52:13: [오전 9:52:13] GET /api/trending-keywords
+2026-09-22 09:53:13: [오전 9:53:13] GET /api/trending-keywords
+2026-09-22 09:54:13: [오전 9:54:13] GET /api/trending-keywords
+2026-09-22 09:55:13: [오전 9:55:13] GET /api/trending-keywords
+2026-09-22 09:56:13: [오전 9:56:13] GET /api/trending-keywords
+2026-09-22 09:57:13: [오전 9:57:13] GET /api/trending-keywords
+2026-09-22 09:58:13: [오전 9:58:13] GET /api/trending-keywords
+2026-09-22 09:59:13: [오전 9:59:13] GET /api/trending-keywords
+2026-09-22 10:00:13: [오전 10:00:13] GET /api/trending-keywords
+2026-09-22 10:01:13: [오전 10:01:13] GET /api/trending-keywords
+2026-09-22 10:02:13: [오전 10:02:13] GET /api/trending-keywords
+2026-09-22 10:03:13: [오전 10:03:13] GET /api/trending-keywords
+2026-09-22 10:03:26: [오전 10:03:26] GET /api/trending-keywords
+2026-09-22 10:04:26: [오전 10:04:26] GET /api/trending-keywords
+2026-09-22 10:04:29: [오전 10:04:29] GET /api/new-songs/melon
+2026-09-22 10:04:29: [오전 10:04:29] GET /api/new-songs/melon
+2026-09-22 10:04:30: [오전 10:04:30] GET /api/match?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER
+2026-09-22 10:04:35: [matchYouTubeTrack (Official MV)] "소년만화 - QWER" top candidates:
+2026-09-22 10:04:35:   #1 [84.0] "QWER-소년만화 (DREAMER) M/V 팬메이드" by 편집하는 바위게 (3:08)
+2026-09-22 10:04:35:   #2 [70.0] "QWER - 소년만화 [가사/Lyrics]" by 웅키 (3:07)
+2026-09-22 10:04:35:   #3 [50.0] "Shonen Manga v6" by QWER (3:21)
+2026-09-22 10:04:35: [오전 10:04:35] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=all
+2026-09-22 10:05:26: [오전 10:05:26] GET /api/trending-keywords
+2026-09-22 10:06:26: [오전 10:06:26] GET /api/trending-keywords
+2026-09-22 10:07:26: [오전 10:07:26] GET /api/trending-keywords
+2026-09-22 10:08:13: [오전 10:08:13] GET /api/match?title=Heart%C2%A0Stage&artist=%EC%BA%90%EC%B9%98!%C2%A0%ED%8B%B0%EB%8B%88%ED%95%91,+PLAVE
+2026-09-22 10:08:17: [matchYouTubeTrack (Official MV)] "Heart Stage - 캐치! 티니핑, PLAVE" top candidates:
+2026-09-22 10:08:17:   #1 [70.0] "Heart Stage" by Release - Topic (2:26)
+2026-09-22 10:08:17:   #2 [70.0] "Heart Stage (Inst.)" by Release - Topic (2:26)
+2026-09-22 10:08:17:   #3 [70.0] "Hearts2Hearts 하츠투하츠 'STYLE' MV" by SMTOWN (3:44)
+2026-09-22 10:08:17: [오전 10:08:17] GET /api/lyrics?title=Heart%C2%A0Stage&artist=%EC%BA%90%EC%B9%98!%C2%A0%ED%8B%B0%EB%8B%88%ED%95%91,+PLAVE&source=all
+2026-09-22 10:08:26: [오전 10:08:26] GET /api/trending-keywords
+2026-09-22 10:08:49: [오전 10:08:49] GET /api/search?q=%EB%A3%A8%ED%95%98&source=youtube
+2026-09-22 10:09:08: [오전 10:09:08] GET /api/search?q=3piece&source=youtube
+2026-09-22 10:09:26: [오전 10:09:26] GET /api/trending-keywords
+2026-09-22 10:09:30: [오전 10:09:30] GET /api/search?q=3piece&source=melon
+2026-09-22 10:09:34: [오전 10:09:34] GET /api/search?q=3piece&source=bugs
+2026-09-22 10:09:47: [오전 10:09:47] GET /api/search?q=%ED%94%BC%EC%96%B4%EC%98%AC%EB%9D%BC&source=bugs
+2026-09-22 10:09:51: [오전 10:09:51] GET /api/match?title=%ED%94%BC%EC%96%B4%EC%98%AC%EB%9D%BC&artist=3piece+(%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4)
+2026-09-22 10:09:56: [matchYouTubeTrack (Official MV)] "피어올라 - 3piece (쓰리피스)" top candidates:
+2026-09-22 10:09:56:   #1 [130.0] "3piece (쓰리피스) - 피어올라 [Music Video]" by 워너뮤직코리아 (Warner Music Korea) (3:29)
+2026-09-22 10:09:56:   #2 [95.0] "3piece 쓰리피스 '피어올라(Light up)' MV" by 3piece Ι 쓰리피스 (3:29)
+2026-09-22 10:09:56:   #3 [55.7] "3piece 쓰리피스 '피어올라(Light up)' MV Behind the scene" by 3piece Ι 쓰리피스 (6:23)
+2026-09-22 10:09:56: [오전 10:09:56] GET /api/lyrics?title=%ED%94%BC%EC%96%B4%EC%98%AC%EB%9D%BC&artist=3piece+(%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4)&source=all
+2026-09-22 10:10:10: [오전 10:10:10] GET /api/lyrics?title=%ED%94%BC%EC%96%B4%EC%98%AC%EB%9D%BC&artist=3piece+(%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4)&source=spotify
+2026-09-22 10:10:14: [오전 10:10:14] GET /api/lyrics?title=%ED%94%BC%EC%96%B4%EC%98%AC%EB%9D%BC&artist=3piece+(%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4)&source=bugs
+2026-09-22 10:10:26: [오전 10:10:26] GET /api/trending-keywords
+2026-09-22 10:10:59: [오전 10:10:59] GET /api/lyrics?title=Heart%C2%A0Stage&artist=%EC%BA%90%EC%B9%98!%C2%A0%ED%8B%B0%EB%8B%88%ED%95%91,+PLAVE&source=bugs
+2026-09-22 10:11:07: [오전 10:11:07] GET /api/lyrics?title=%ED%94%BC%EC%96%B4%EC%98%AC%EB%9D%BC&artist=3piece+(%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4)&source=bugs
+2026-09-22 10:11:15: [오전 10:11:15] GET /api/search?q=%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4&source=bugs
+2026-09-22 10:11:20: [오전 10:11:20] GET /api/match?title=Summer+Feeling&artist=3piece+(%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4)
+2026-09-22 10:11:24: [matchYouTubeTrack (Official MV)] "Summer Feeling - 3piece (쓰리피스)" top candidates:
+2026-09-22 10:11:24:   #1 [131.7] "3piece (쓰리피스) - Summer Feeling [Music Video]" by 워너뮤직코리아 (Warner Music Korea) (3:04)
+2026-09-22 10:11:24:   #2 [107.0] "4K 【㉭】  [OFFICIAL MUSIC VIDEO] 세로 3piece(쓰리피스) Summer Feeling" by 홍픽쳐스 (3:04)
+2026-09-22 10:11:24:   #3 [95.0] "Summer Feeling" by 3piece - Topic (3:03)
+2026-09-22 10:11:24: [오전 10:11:24] GET /api/lyrics?title=Summer+Feeling&artist=3piece+(%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4)&source=bugs
+2026-09-22 10:11:26: [오전 10:11:26] GET /api/trending-keywords
+2026-09-22 10:11:34: [오전 10:11:34] GET /api/lyrics?title=Summer+Feeling&artist=3piece+(%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4)&source=all
+2026-09-22 10:12:27: [오전 10:12:27] GET /api/charts/melon
+2026-09-22 10:12:27: [오전 10:12:27] GET /api/trending-keywords
+2026-09-22 10:12:27: [오전 10:12:27] GET /api/trending-keywords
+2026-09-22 10:12:27: [오전 10:12:27] GET /api/charts/melon
+2026-09-22 10:12:41: [오전 10:12:41] GET /api/search?q=%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4&source=spotify
+2026-09-22 10:12:50: [오전 10:12:50] GET /api/search?q=%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4&source=flo
+2026-09-22 10:13:02: [오전 10:13:02] GET /api/search?q=%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4&source=genie
+2026-09-22 10:13:05: [오전 10:13:05] GET /api/match?title=Summer+Feeling&artist=3piece+(%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4)
+2026-09-22 10:13:09: [matchYouTubeTrack (Official MV)] "Summer Feeling - 3piece (쓰리피스)" top candidates:
+2026-09-22 10:13:09:   #1 [131.7] "3piece (쓰리피스) - Summer Feeling [Music Video]" by 워너뮤직코리아 (Warner Music Korea) (3:04)
+2026-09-22 10:13:09:   #2 [107.0] "4K 【㉭】  [OFFICIAL MUSIC VIDEO] 세로 3piece(쓰리피스) Summer Feeling" by 홍픽쳐스 (3:04)
+2026-09-22 10:13:09:   #3 [95.0] "Summer Feeling" by 3piece - Topic (3:03)
+2026-09-22 10:13:09: [오전 10:13:09] GET /api/lyrics?title=Summer+Feeling&artist=3piece+(%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4)&source=all
+2026-09-22 10:13:17: [오전 10:13:17] GET /api/lyrics?title=Summer+Feeling&artist=3piece+(%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4)&source=genie
+2026-09-22 10:13:18: [오전 10:13:18] GET /api/lyrics?title=Summer+Feeling&artist=3piece+(%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4)&source=bugs
+2026-09-22 10:13:21: [오전 10:13:21] GET /api/lyrics?title=Summer+Feeling&artist=3piece+(%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4)&source=flo
+2026-09-22 10:13:23: [오전 10:13:23] GET /api/lyrics?title=Summer+Feeling&artist=3piece+(%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4)&source=youtube
+2026-09-22 10:13:27: [오전 10:13:27] GET /api/lyrics?title=Summer+Feeling&artist=3piece+(%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4)&source=all
+2026-09-22 10:13:27: [오전 10:13:27] GET /api/trending-keywords
+2026-09-22 10:14:27: [오전 10:14:27] GET /api/trending-keywords
+2026-09-22 10:14:28: [오전 10:14:28] GET /api/search?q=%EB%8F%99%ED%9D%AC&source=genie
+2026-09-22 10:14:37: [오전 10:14:37] GET /api/match?title=Good+Morning&artist=%EB%8F%99%ED%9D%AC
+2026-09-22 10:14:42: [matchYouTubeTrack (Official MV)] "Good Morning - 동희" top candidates:
+2026-09-22 10:14:42:   #1 [86.4] "Good Morning 😎☀️🎒 | Official Music Video | The Tunies" by The Tunies (2:17)
+2026-09-22 10:14:42:   #2 [81.7] "Good Morning Instrumental" by 동희 - Topic (3:17)
+2026-09-22 10:14:42:   #3 [80.0] "Good Morning" by ONF OFFICIAL (3:54)
+2026-09-22 10:14:42: [오전 10:14:42] GET /api/lyrics?title=Good+Morning&artist=%EB%8F%99%ED%9D%AC&source=all
+2026-09-22 10:15:27: [오전 10:15:27] GET /api/trending-keywords
+2026-09-22 10:16:28: [오전 10:16:28] GET /api/trending-keywords
+2026-09-22 10:17:28: [오전 10:17:28] GET /api/trending-keywords
+2026-09-22 10:18:28: [오전 10:18:28] GET /api/trending-keywords
+2026-09-22 10:20:13: [오전 10:20:13] GET /api/trending-keywords
+2026-09-22 10:21:13: [오전 10:21:13] GET /api/trending-keywords
+2026-09-22 10:22:13: [오전 10:22:13] GET /api/trending-keywords
+2026-09-22 10:23:13: [오전 10:23:13] GET /api/trending-keywords
+2026-09-22 10:24:13: [오전 10:24:13] GET /api/trending-keywords
+2026-09-22 10:25:13: [오전 10:25:13] GET /api/trending-keywords
+2026-09-22 10:26:13: [오전 10:26:13] GET /api/trending-keywords
+2026-09-22 10:27:13: [오전 10:27:13] GET /api/trending-keywords
+2026-09-22 10:28:13: [오전 10:28:13] GET /api/trending-keywords
+2026-09-22 10:28:40: [오전 10:28:40] GET /api/trending-keywords
+2026-09-22 10:29:11: [오전 10:29:11] GET /api/search?q=%EB%8F%99%ED%9D%AC+goodmorning&source=youtube
+2026-09-22 10:29:26: [오전 10:29:26] GET /api/lyrics?title=%EB%8F%99%ED%9D%AC++-+Good+Morning&artist=missemilieee94&source=all
+2026-09-22 10:29:27: [오전 10:29:27] GET /api/trending-keywords
+2026-09-22 10:29:37: [오전 10:29:37] GET /api/lyrics?title=%EB%8F%99%ED%9D%AC++-+Good+Morning&artist=missemilieee94&source=spotify
+2026-09-22 10:29:40: [오전 10:29:40] GET /api/lyrics?title=%EB%8F%99%ED%9D%AC++-+Good+Morning&artist=missemilieee94&source=melon
+2026-09-22 10:29:50: [오전 10:29:50] GET /api/lyrics?title=%EB%8F%99%ED%9D%AC++-+Good+Morning&artist=missemilieee94&source=flo
+2026-09-22 10:29:54: [오전 10:29:54] GET /api/lyrics?title=%EB%8F%99%ED%9D%AC++-+Good+Morning&artist=missemilieee94&source=all
+2026-09-22 10:30:27: [오전 10:30:27] GET /api/trending-keywords
+2026-09-22 10:30:28: [오전 10:30:28] GET /api/search?q=Pretty+Girl+RESCENE%C2%A0(%EB%A6%AC%EC%84%BC%EB%8A%90)&source=bugs
+2026-09-22 10:30:34: [오전 10:30:34] GET /api/search?q=Pretty+Girl+RESCENE%C2%A0(%EB%A6%AC%EC%84%BC%EB%8A%90)&source=melon
+2026-09-22 10:30:58: [오전 10:30:58] GET /api/years
+2026-09-22 10:30:58: [오전 10:30:58] GET /api/years
+2026-09-22 10:30:58: [오전 10:30:58] GET /api/years/2026
+2026-09-22 10:31:02: [오전 10:31:02] GET /api/years/2026
+2026-09-22 10:31:02: [오전 10:31:02] GET /api/years/2026
+2026-09-22 10:31:04: [오전 10:31:04] GET /api/mv/platforms
+2026-09-22 10:31:04: [오전 10:31:04] GET /api/mv/melon_new
+2026-09-22 10:31:04: [오전 10:31:04] GET /api/mv/platforms
+2026-09-22 10:31:04: [오전 10:31:04] GET /api/mv/melon_new
+2026-09-22 10:31:27: [오전 10:31:27] GET /api/trending-keywords
+2026-09-22 10:31:50: [오전 10:31:50] GET /api/charts/melon
+2026-09-22 10:31:52: [오전 10:31:52] GET /api/charts/flo
+2026-09-22 10:31:54: [오전 10:31:54] GET /api/charts/flo?age=70-80
+2026-09-22 10:31:56: [오전 10:31:56] GET /api/charts/flo?age=50-60
+2026-09-22 10:31:57: [오전 10:31:57] GET /api/charts/flo?age=30-40
+2026-09-22 10:31:58: [오전 10:31:58] GET /api/charts/flo?age=10-20
+2026-09-22 10:31:59: [오전 10:31:59] GET /api/charts/flo
+2026-09-22 10:32:00: [오전 10:32:00] GET /api/charts/flo?age=10-20
+2026-09-22 10:32:03: [오전 10:32:03] GET /api/charts/flo?age=30-40
+2026-09-22 10:32:05: [오전 10:32:05] GET /api/charts/flo?age=50-60
+2026-09-22 10:32:05: [오전 10:32:05] GET /api/charts/flo
+2026-09-22 10:32:07: [오전 10:32:07] GET /api/charts/flo?age=70-80
+2026-09-22 10:32:08: [오전 10:32:08] GET /api/charts/flo?age=50-60
+2026-09-22 10:32:09: [오전 10:32:09] GET /api/charts/flo?age=30-40
+2026-09-22 10:32:10: [오전 10:32:10] GET /api/charts/flo?age=10-20
+2026-09-22 10:32:12: [오전 10:32:12] GET /api/charts/flo
+2026-09-22 10:32:14: [오전 10:32:14] GET /api/charts/flo?age=10-20
+2026-09-22 10:32:16: [오전 10:32:16] GET /api/charts/flo?age=30-40
+2026-09-22 10:32:17: [오전 10:32:17] GET /api/charts/flo
+2026-09-22 10:32:19: [오전 10:32:19] GET /api/charts/flo?age=10-20
+2026-09-22 10:32:20: [오전 10:32:20] GET /api/charts/flo?age=30-40
+2026-09-22 10:32:21: [오전 10:32:21] GET /api/charts/flo?age=50-60
+2026-09-22 10:32:22: [오전 10:32:22] GET /api/charts/flo?age=70-80
+2026-09-22 10:32:27: [오전 10:32:27] GET /api/trending-keywords
+2026-09-22 10:32:43: [오전 10:32:43] GET /api/lyrics?title=Good+Morning&artist=%EB%8F%99%ED%9D%AC&source=all
+2026-09-22 10:32:54: [오전 10:32:54] GET /api/lyrics?title=Summer+Feeling&artist=3piece+(%EC%93%B0%EB%A6%AC%ED%94%BC%EC%8A%A4)&source=all
+2026-09-22 10:33:25: [오전 10:33:25] GET /api/charts/melon
+2026-09-22 10:33:25: [오전 10:33:25] GET /api/trending-keywords
+2026-09-22 10:33:25: [오전 10:33:25] GET /api/charts/melon
+2026-09-22 10:33:25: [오전 10:33:25] GET /api/trending-keywords
+2026-09-22 10:34:25: [오전 10:34:25] GET /api/trending-keywords
+2026-09-22 10:35:25: [오전 10:35:25] GET /api/trending-keywords
+2026-09-22 10:36:25: [오전 10:36:25] GET /api/trending-keywords
+2026-09-22 10:37:26: [오전 10:37:26] GET /api/trending-keywords
+2026-09-22 10:38:26: [오전 10:38:26] GET /api/trending-keywords
+2026-09-22 10:39:26: [오전 10:39:26] GET /api/trending-keywords
+2026-09-22 10:41:13: [오전 10:41:13] GET /api/trending-keywords
+2026-09-22 10:42:02: [오전 10:42:02] GET /api/trending-keywords
+2026-09-22 10:42:26: [오전 10:42:26] GET /api/trending-keywords
+2026-09-22 10:42:52: [오전 10:42:52] GET /api/charts/genie
+2026-09-22 10:42:53: [오전 10:42:53] GET /api/charts/melon
+2026-09-22 10:43:25: [오전 10:43:25] GET /api/trending-keywords
+2026-09-22 10:44:26: [오전 10:44:26] GET /api/trending-keywords
+2026-09-22 10:46:13: [오전 10:46:13] GET /api/trending-keywords
+2026-09-22 10:47:13: [오전 10:47:13] GET /api/trending-keywords
+2026-09-22 10:48:13: [오전 10:48:13] GET /api/trending-keywords
+2026-09-22 10:49:13: [오전 10:49:13] GET /api/trending-keywords
+2026-09-22 10:50:13: [오전 10:50:13] GET /api/trending-keywords
+2026-09-22 10:51:13: [오전 10:51:13] GET /api/trending-keywords
+2026-09-22 10:52:13: [오전 10:52:13] GET /api/trending-keywords
+2026-09-22 10:53:13: [오전 10:53:13] GET /api/trending-keywords
+2026-09-22 10:54:13: [오전 10:54:13] GET /api/trending-keywords
+2026-09-22 10:55:13: [오전 10:55:13] GET /api/trending-keywords
+2026-09-22 10:56:13: [오전 10:56:13] GET /api/trending-keywords
+2026-09-22 10:57:13: [오전 10:57:13] GET /api/trending-keywords
+2026-09-22 10:58:13: [오전 10:58:13] GET /api/trending-keywords
+2026-09-22 10:59:13: [오전 10:59:13] GET /api/trending-keywords
+2026-09-22 11:00:13: [오전 11:00:13] GET /api/trending-keywords
+2026-09-22 11:01:13: [오전 11:01:13] GET /api/trending-keywords
+2026-09-22 11:02:13: [오전 11:02:13] GET /api/trending-keywords
+2026-09-22 11:02:47: [오전 11:02:47] GET /api/trending-keywords
+2026-09-22 11:03:26: [오전 11:03:26] GET /api/trending-keywords
+2026-09-22 11:05:13: [오전 11:05:13] GET /api/trending-keywords
+2026-09-22 11:06:13: [오전 11:06:13] GET /api/trending-keywords
+2026-09-22 11:07:13: [오전 11:07:13] GET /api/trending-keywords
+2026-09-22 11:08:13: [오전 11:08:13] GET /api/trending-keywords
+2026-09-22 11:09:13: [오전 11:09:13] GET /api/trending-keywords
+2026-09-22 11:10:13: [오전 11:10:13] GET /api/trending-keywords
+2026-09-22 11:11:13: [오전 11:11:13] GET /api/trending-keywords
+2026-09-22 11:12:13: [오전 11:12:13] GET /api/trending-keywords
+2026-09-22 11:13:13: [오전 11:13:13] GET /api/trending-keywords
+2026-09-22 11:14:13: [오전 11:14:13] GET /api/trending-keywords
+2026-09-22 11:15:13: [오전 11:15:13] GET /api/trending-keywords
+2026-09-22 11:16:13: [오전 11:16:13] GET /api/trending-keywords
+2026-09-22 11:17:13: [오전 11:17:13] GET /api/trending-keywords
+2026-09-22 11:18:13: [오전 11:18:13] GET /api/trending-keywords
+2026-09-22 11:19:13: [오전 11:19:13] GET /api/trending-keywords
+2026-09-22 11:20:13: [오전 11:20:13] GET /api/trending-keywords
+2026-09-22 11:20:40: [오전 11:20:40] GET /api/trending-keywords
+2026-09-22 11:21:25: [오전 11:21:25] GET /api/trending-keywords
+2026-09-22 11:21:44: [오전 11:21:44] GET /api/match?title=REDRED&artist=CORTIS%C2%A0(%EC%BD%94%EB%A5%B4%ED%8B%B0%EC%8A%A4)
+2026-09-22 11:21:51: [matchYouTubeTrack (Official MV)] "REDRED - CORTIS (코르티스)" top candidates:
+2026-09-22 11:21:51:   #1 [127.5] "CORTIS (코르티스) 'REDRED' Official MV" by HYBE LABELS and CORTIS (3:29)
+2026-09-22 11:21:51:   #2 [113.3] "CORTIS (코르티스) 'REDRED' MV (Original Ver.)" by CORTIS (2:45)
+2026-09-22 11:21:51:   #3 [102.5] "CORTIS (코르티스) 'TNT' Official MV" by HYBE LABELS and CORTIS (3:04)
+2026-09-22 11:21:51: [오전 11:21:51] GET /api/lyrics?title=REDRED&artist=CORTIS%C2%A0(%EC%BD%94%EB%A5%B4%ED%8B%B0%EC%8A%A4)&source=all
+2026-09-22 11:22:25: [오전 11:22:25] GET /api/trending-keywords
+2026-09-22 11:23:25: [오전 11:23:25] GET /api/trending-keywords
+2026-09-22 11:24:25: [오전 11:24:25] GET /api/trending-keywords
+2026-09-22 11:24:34: [오전 11:24:34] GET /api/charts/melon
+2026-09-22 11:24:34: [오전 11:24:34] GET /api/new-songs/melon
+2026-09-22 11:24:41: [오전 11:24:41] GET /api/new-songs/melon
+2026-09-22 11:25:25: [오전 11:25:25] GET /api/trending-keywords
+2026-09-22 11:26:25: [오전 11:26:25] GET /api/trending-keywords
+2026-09-22 11:27:25: [오전 11:27:25] GET /api/trending-keywords
+2026-09-22 11:28:25: [오전 11:28:25] GET /api/trending-keywords
+2026-09-22 11:29:25: [오전 11:29:25] GET /api/trending-keywords
+2026-09-22 11:30:26: [오전 11:30:26] GET /api/trending-keywords
+2026-09-22 11:32:13: [오전 11:32:13] GET /api/trending-keywords
+2026-09-22 11:33:13: [오전 11:33:13] GET /api/trending-keywords
+2026-09-22 11:34:13: [오전 11:34:13] GET /api/trending-keywords
+2026-09-22 11:35:13: [오전 11:35:13] GET /api/trending-keywords
+2026-09-22 11:36:13: [오전 11:36:13] GET /api/trending-keywords
+2026-09-22 11:37:13: [오전 11:37:13] GET /api/trending-keywords
+2026-09-22 11:38:13: [오전 11:38:13] GET /api/trending-keywords
+2026-09-22 11:39:13: [오전 11:39:13] GET /api/trending-keywords
+2026-09-22 11:40:13: [오전 11:40:13] GET /api/trending-keywords
+2026-09-22 11:41:13: [오전 11:41:13] GET /api/trending-keywords
+2026-09-22 11:42:13: [오전 11:42:13] GET /api/trending-keywords
+2026-09-22 11:43:13: [오전 11:43:13] GET /api/trending-keywords
+2026-09-22 11:44:13: [오전 11:44:13] GET /api/trending-keywords
+2026-09-22 11:45:13: [오전 11:45:13] GET /api/trending-keywords
+2026-09-22 11:46:13: [오전 11:46:13] GET /api/trending-keywords
+2026-09-22 11:47:13: [오전 11:47:13] GET /api/trending-keywords
+2026-09-22 11:48:13: [오전 11:48:13] GET /api/trending-keywords
+2026-09-22 11:49:00: [오전 11:49:00] GET /api/trending-keywords
+2026-09-22 11:49:02: [오전 11:49:02] GET /api/match?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER
+2026-09-22 11:49:07: [matchYouTubeTrack (Official MV)] "소년만화 - QWER" top candidates:
+2026-09-22 11:49:07:   #1 [84.0] "QWER-소년만화 (DREAMER) M/V 팬메이드" by 편집하는 바위게 (3:08)
+2026-09-22 11:49:07:   #2 [70.0] "QWER - 소년만화 [가사/Lyrics]" by 웅키 (3:07)
+2026-09-22 11:49:07:   #3 [70.0] "QWER - 소년만화(1,2일차 교차편집Ver.)" by 낭만 (3:11)
+2026-09-22 11:49:07: [오전 11:49:07] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=all
+2026-09-22 11:49:13: [오전 11:49:13] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=spotify
+2026-09-22 11:49:18: [오전 11:49:18] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=all
+2026-09-22 11:49:20: [오전 11:49:20] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=spotify
+2026-09-22 11:49:22: [오전 11:49:22] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=melon
+2026-09-22 11:49:24: [오전 11:49:24] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=genie
+2026-09-22 11:49:25: [오전 11:49:25] GET /api/trending-keywords
+2026-09-22 11:49:26: [오전 11:49:26] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=bugs
+2026-09-22 11:49:27: [오전 11:49:27] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=flo
+2026-09-22 11:49:29: [오전 11:49:29] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=youtube
+2026-09-22 11:49:31: [오전 11:49:31] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=spotify
+2026-09-22 11:49:33: [오전 11:49:33] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=all
+2026-09-22 11:49:37: [오전 11:49:37] GET /api/lyrics?title=%EC%86%8C%EB%85%84%EB%A7%8C%ED%99%94&artist=QWER&source=melon
+2026-09-22 11:50:25: [오전 11:50:25] GET /api/trending-keywords
+2026-09-22 11:51:25: [오전 11:51:25] GET /api/trending-keywords
+2026-09-22 11:51:36: [오전 11:51:36] GET /api/new-songs/genie
+2026-09-22 11:51:37: [오전 11:51:37] GET /api/new-songs/genie
+2026-09-22 11:51:39: [오전 11:51:39] GET /api/new-songs/flo
+2026-09-22 11:51:39: [오전 11:51:39] GET /api/new-songs/flo
+2026-09-22 11:51:43: [오전 11:51:43] GET /api/new-songs/bugs
+2026-09-22 11:51:52: [오전 11:51:52] GET /api/new-songs/bugs
+2026-09-22 11:52:06: [오전 11:52:06] GET /api/charts/melon
+2026-09-22 11:52:07: [오전 11:52:07] GET /api/charts/bugs
+2026-09-22 11:52:10: [오전 11:52:10] GET /api/new-songs/bugs
+2026-09-22 11:52:10: [오전 11:52:10] GET /api/new-songs/bugs
+2026-09-22 11:52:12: [오전 11:52:12] GET /api/charts/bugs
+2026-09-22 11:52:15: [오전 11:52:15] GET /api/lyrics?title=REDRED&artist=CORTIS%C2%A0(%EC%BD%94%EB%A5%B4%ED%8B%B0%EC%8A%A4)&source=melon
+2026-09-22 11:52:16: [오전 11:52:16] GET /api/new-songs/bugs
+2026-09-22 11:52:16: [오전 11:52:16] GET /api/new-songs/bugs
+2026-09-22 11:52:25: [오전 11:52:25] GET /api/trending-keywords
+2026-09-22 11:52:35: [오전 11:52:35] GET /api/charts/bugs
+2026-09-22 11:52:37: [오전 11:52:37] GET /api/charts/melon
+2026-09-22 11:53:33: [오전 11:53:33] GET /api/charts/melon
+2026-09-22 11:53:34: [오전 11:53:34] GET /api/charts/melon
+2026-09-22 11:54:27: [오전 11:54:27] GET /api/trending-keywords
+2026-09-22 11:55:27: [오전 11:55:27] GET /api/trending-keywords
+2026-09-22 11:56:04: [오전 11:56:04] GET /api/search?q=%EC%A7%80%EC%95%84&source=bugs
+2026-09-22 11:56:13: [오전 11:56:13] GET /api/match?title=%EC%82%AC%EB%9E%91..%EA%B7%B8%EA%B2%8C+%EB%AD%94%EB%8D%B0&artist=%EC%A7%80%EC%95%84
+2026-09-22 11:56:17: [matchYouTubeTrack (Official MV)] "사랑..그게 뭔데 - 지아" top candidates:
+2026-09-22 11:56:17:   #1 [102.1] "[MV] JANG HYE RI(장혜리) _ 사랑 그게 뭔데" by 1theK (원더케이) (3:36)
+2026-09-22 11:56:17:   #2 [100.0] "사랑..그게 뭔데 (Love..What is it)" by 지아 ZIA Official (3:46)
+2026-09-22 11:56:17:   #3 [84.0] "[MV] 양파 - 사랑...그게 뭔데.avi" by orgpang (4:41)
+2026-09-22 11:56:17: [오전 11:56:17] GET /api/lyrics?title=%EC%82%AC%EB%9E%91..%EA%B7%B8%EA%B2%8C+%EB%AD%94%EB%8D%B0&artist=%EC%A7%80%EC%95%84&source=all
+2026-09-22 11:56:27: [오전 11:56:27] GET /api/trending-keywords
+2026-09-22 11:56:36: [오전 11:56:36] GET /api/search?q=%EC%A7%80%EC%95%84+%EC%82%AC%EB%9E%91..%EA%B7%B8%EA%B2%8C+%EB%AD%94%EB%8D%B0&source=bugs
+2026-09-22 11:56:40: [오전 11:56:40] GET /api/match?title=%EC%82%AC%EB%9E%91..%EA%B7%B8%EA%B2%8C+%EB%AD%94%EB%8D%B0+(inst.)&artist=%EC%A7%80%EC%95%84
+2026-09-22 11:56:44: [matchYouTubeTrack (Official MV)] "사랑..그게 뭔데 (inst.) - 지아" top candidates:
+2026-09-22 11:56:44:   #1 [102.1] "[MV] JANG HYE RI(장혜리) _ 사랑 그게 뭔데" by 1theK (원더케이) (3:36)
+2026-09-22 11:56:44:   #2 [100.0] "사랑..그게 뭔데 (Love..What is it)" by 지아 ZIA Official (3:46)
+2026-09-22 11:56:44:   #3 [84.0] "[MV] 양파 - 사랑...그게 뭔데.avi" by orgpang (4:41)
+2026-09-22 11:56:44: [오전 11:56:44] GET /api/lyrics?title=%EC%82%AC%EB%9E%91..%EA%B7%B8%EA%B2%8C+%EB%AD%94%EB%8D%B0+(inst.)&artist=%EC%A7%80%EC%95%84&source=all
+2026-09-22 11:57:03: [오전 11:57:03] GET /api/search?q=%EC%A7%80%EC%95%84+%EC%82%AC%EB%9E%91..%EA%B7%B8%EA%B2%8C+%EB%AD%94%EB%8D%B0&source=genie
+2026-09-22 11:57:05: [오전 11:57:05] GET /api/match?title=%EC%82%AC%EB%9E%91..%EA%B7%B8%EA%B2%8C+%EB%AD%94%EB%8D%B0&artist=%EC%A7%80%EC%95%84
+2026-09-22 11:57:09: [matchYouTubeTrack (Official MV)] "사랑..그게 뭔데 - 지아" top candidates:
+2026-09-22 11:57:09:   #1 [102.1] "[MV] JANG HYE RI(장혜리) _ 사랑 그게 뭔데" by 1theK (원더케이) (3:36)
+2026-09-22 11:57:09:   #2 [100.0] "사랑..그게 뭔데 (Love..What is it)" by 지아 ZIA Official (3:46)
+2026-09-22 11:57:09:   #3 [84.0] "[MV] 양파 - 사랑...그게 뭔데.avi" by orgpang (4:41)
+2026-09-22 11:57:09: [오전 11:57:09] GET /api/lyrics?title=%EC%82%AC%EB%9E%91..%EA%B7%B8%EA%B2%8C+%EB%AD%94%EB%8D%B0&artist=%EC%A7%80%EC%95%84&source=all
+2026-09-22 11:57:14: [오전 11:57:14] GET /api/search?q=%EC%A7%80%EC%95%84+%EC%82%AC%EB%9E%91..%EA%B7%B8%EA%B2%8C+%EB%AD%94%EB%8D%B0&source=flo
+2026-09-22 11:57:16: [오전 11:57:16] GET /api/match?title=%EC%82%AC%EB%9E%91..%EA%B7%B8%EA%B2%8C+%EB%AD%94%EB%8D%B0&artist=%EC%A7%80%EC%95%84
+2026-09-22 11:57:21: [matchYouTubeTrack (Official MV)] "사랑..그게 뭔데 - 지아" top candidates:
+2026-09-22 11:57:21:   #1 [102.1] "[MV] JANG HYE RI(장혜리) _ 사랑 그게 뭔데" by 1theK (원더케이) (3:36)
+2026-09-22 11:57:21:   #2 [100.0] "사랑..그게 뭔데 (Love..What is it)" by 지아 ZIA Official (3:46)
+2026-09-22 11:57:21:   #3 [84.0] "[MV] 양파 - 사랑...그게 뭔데.avi" by orgpang (4:41)
+2026-09-22 11:57:27: [오전 11:57:27] GET /api/trending-keywords
+2026-09-22 11:58:10: [오전 11:58:10] GET /api/search?q=TTL&source=flo
+2026-09-22 11:58:13: [오전 11:58:13] GET /api/match?title=TTL+(Time+To+Love)&artist=%ED%8B%B0%EC%95%84%EB%9D%BC+(T-ara),+%EC%B4%88%EC%8B%A0%EC%84%B1
+2026-09-22 11:58:19: [matchYouTubeTrack (Official MV)] "TTL (Time To Love) - 티아라 (T-ara), 초신성" top candidates:
+2026-09-22 11:58:19:   #1 [91.7] "T-ara & Supernova(티아라 & 초신성) _ TTL (TIME TO LOVE) MV" by 1theK (원더케이) (3:29)
+2026-09-22 11:58:19:   #2 [90.7] "[MV] T-ARA(티아라), Choshinsung(초신성) _ TTL Listen 2" by 1theK (원더케이) (3:15)
+2026-09-22 11:58:19:   #3 [86.7] "MV | 티아라, 초신성(T-ARA, Supernova) - TTL Listen 2" by DanalEntertainment (3:15)
+2026-09-22 11:58:19: [오전 11:58:19] GET /api/lyrics?title=TTL+(Time+To+Love)&artist=%ED%8B%B0%EC%95%84%EB%9D%BC+(T-ara),+%EC%B4%88%EC%8B%A0%EC%84%B1&source=all
+2026-09-22 11:58:27: [오전 11:58:27] GET /api/trending-keywords
+2026-09-22 11:58:54: [오전 11:58:54] GET /api/lyrics?title=TTL+(Time+To+Love)&artist=%ED%8B%B0%EC%95%84%EB%9D%BC+(T-ara),+%EC%B4%88%EC%8B%A0%EC%84%B1&source=spotify
+2026-09-22 11:58:55: [오전 11:58:55] GET /api/lyrics?title=TTL+(Time+To+Love)&artist=%ED%8B%B0%EC%95%84%EB%9D%BC+(T-ara),+%EC%B4%88%EC%8B%A0%EC%84%B1&source=melon
+2026-09-22 11:58:59: [오전 11:58:59] GET /api/lyrics?title=TTL+(Time+To+Love)&artist=%ED%8B%B0%EC%95%84%EB%9D%BC+(T-ara),+%EC%B4%88%EC%8B%A0%EC%84%B1&source=genie
+2026-09-22 11:59:02: [오전 11:59:02] GET /api/lyrics?title=TTL+(Time+To+Love)&artist=%ED%8B%B0%EC%95%84%EB%9D%BC+(T-ara),+%EC%B4%88%EC%8B%A0%EC%84%B1&source=bugs
+2026-09-22 11:59:05: [오전 11:59:05] GET /api/search?q=TTL&source=flo
+2026-09-22 11:59:24: [오전 11:59:24] GET /api/lyrics?title=%EC%82%AC%EB%9E%91..%EA%B7%B8%EA%B2%8C+%EB%AD%94%EB%8D%B0&artist=%EC%A7%80%EC%95%84&source=bugs
+2026-09-22 11:59:24: [오전 11:59:24] GET /api/search?q=TTL+Liten&source=flo
+2026-09-22 11:59:27: [오전 11:59:27] GET /api/trending-keywords
+2026-09-22 11:59:50: [오전 11:59:50] GET /api/search?q=TTL+Li&source=flo
+2026-09-22 11:59:56: [오전 11:59:56] GET /api/search?q=TTL+2&source=flo
+2026-09-22 12:00:07: [오후 12:00:07] GET /api/search?q=TTL+Listen+2&source=flo
+2026-09-22 12:00:17: [오후 12:00:17] GET /api/match?title=TTL+Listen+2&artist=%ED%8B%B0%EC%95%84%EB%9D%BC+(T-ara),+%EC%B4%88%EC%8B%A0%EC%84%B1
+2026-09-22 12:00:23: [matchYouTubeTrack (Official MV)] "TTL Listen 2 - 티아라 (T-ara), 초신성" top candidates:
+2026-09-22 12:00:23:   #1 [102.1] "[MV] T-ARA(티아라), Choshinsung(초신성) _ TTL Listen 2" by 1theK (원더케이) (3:15)
+2026-09-22 12:00:23:   #2 [100.0] "MV | 티아라, 초신성(T-ARA, Supernova) - TTL Listen 2" by DanalEntertainment (3:15)
+2026-09-22 12:00:23:   #3 [85.0] "TTL Listen.2 (With 티아라) (Feat. 이해리 of 다비치)" by 초신성 - Topic (3:32)
+2026-09-22 12:00:23: [오후 12:00:23] GET /api/lyrics?title=TTL+Listen+2&artist=%ED%8B%B0%EC%95%84%EB%9D%BC+(T-ara),+%EC%B4%88%EC%8B%A0%EC%84%B1&source=bugs
+2026-09-22 12:00:26: [오후 12:00:26] GET /api/lyrics?title=TTL+Listen+2&artist=%ED%8B%B0%EC%95%84%EB%9D%BC+(T-ara),+%EC%B4%88%EC%8B%A0%EC%84%B1&source=all
+2026-09-22 12:00:27: [오후 12:00:27] GET /api/trending-keywords
+2026-09-22 12:01:27: [오후 12:01:27] GET /api/trending-keywords
+2026-09-22 12:01:40: [오후 12:01:40] GET /api/search?q=TTL+Listen+2&source=flo
+2026-09-22 12:01:43: [오후 12:01:43] GET /api/match?title=TTL+Listen+2&artist=%ED%8B%B0%EC%95%84%EB%9D%BC+(T-ara),+%EC%B4%88%EC%8B%A0%EC%84%B1
+2026-09-22 12:01:49: [matchYouTubeTrack (Official MV)] "TTL Listen 2 - 티아라 (T-ara), 초신성" top candidates:
+2026-09-22 12:01:49:   #1 [102.1] "[MV] T-ARA(티아라), Choshinsung(초신성) _ TTL Listen 2" by 1theK (원더케이) (3:15)
+2026-09-22 12:01:49:   #2 [100.0] "MV | 티아라, 초신성(T-ARA, Supernova) - TTL Listen 2" by DanalEntertainment (3:15)
+2026-09-22 12:01:49:   #3 [85.0] "TTL Listen.2 (With 티아라) (Feat. 이해리 of 다비치)" by 초신성 - Topic (3:32)
+2026-09-22 12:02:27: [오후 12:02:27] GET /api/trending-keywords
+2026-09-22 12:02:44: [오후 12:02:44] GET /api/search?q=%EB%A0%89%EC%8B%9C&source=flo
+2026-09-22 12:02:56: [오후 12:02:56] GET /api/match?title=%EB%A7%B9%EC%84%B8&artist=%EB%A0%89%EC%8B%9C
+2026-09-22 12:03:01: [matchYouTubeTrack (Official MV)] "맹세 - 렉시" top candidates:
+2026-09-22 12:03:01:   #1 [70.0] "렉시  - 맹세 (feat. 휘성)" by musicd0ll (3:28)
+2026-09-22 12:03:01:   #2 [70.0] "LEXY - 4TH MV" by YG ENTERTAINMENT (3:43)
+2026-09-22 12:03:01:   #3 [70.0] "LEXY - Ae song M/V" by YG ENTERTAINMENT (4:00)
+2026-09-22 12:03:01: [오후 12:03:01] GET /api/lyrics?title=%EB%A7%B9%EC%84%B8&artist=%EB%A0%89%EC%8B%9C&source=all
+2026-09-22 12:03:24: [오후 12:03:24] GET /api/search?q=%EC%8A%AC%EB%9F%AC%EC%8B%9C&source=flo
+2026-09-22 12:03:27: [오후 12:03:27] GET /api/trending-keywords
+2026-09-22 12:03:36: [오후 12:03:36] GET /api/match?title=%EB%B9%84%EB%AA%BD+X+%EC%99%9C+%EB%B6%88%EB%9F%AC&artist=%EC%8A%AC%EB%9F%AC%EC%8B%9C
+2026-09-22 12:03:40: [matchYouTubeTrack (Official MV)] "비몽 X 왜 불러 - 슬러시" top candidates:
+2026-09-22 12:03:40:   #1 [95.0] "비몽 X 왜 불러" by 슬러시 - Topic (4:14)
+2026-09-22 12:03:40:   #2 [41.4] "ENG) 슬러시 - 비몽&왜 불러｜쇼킹나이트 1회" by MBN MUSIC (4:26)
+2026-09-22 12:03:40:   #3 [38.3] "[무대 무편집본] 쇼킹나이트 1회/ 슬러시 - 비몽 X 왜불러" by 쇼킹 나이트 (4:14)
+2026-09-22 12:03:40: [오후 12:03:40] GET /api/lyrics?title=%EB%B9%84%EB%AA%BD+X+%EC%99%9C+%EB%B6%88%EB%9F%AC&artist=%EC%8A%AC%EB%9F%AC%EC%8B%9C&source=all
+2026-09-22 12:04:27: [오후 12:04:27] GET /api/trending-keywords
+2026-09-22 12:05:26: [오후 12:05:26] GET /api/search?q=%EC%BD%94%EC%9A%94%ED%83%9C&source=flo
+2026-09-22 12:05:27: [오후 12:05:27] GET /api/trending-keywords
+2026-09-22 12:05:30: [오후 12:05:30] GET /api/match?title=%ED%8C%8C%EB%9E%80&artist=%EC%BD%94%EC%9A%94%ED%83%9C
+2026-09-22 12:05:36: [matchYouTubeTrack (Official MV)] "파란 - 코요태" top candidates:
+2026-09-22 12:05:36:   #1 [93.3] "[1080p60] 코요태 (Koyote) - 파란 (Disturbance) 뮤직비디오 (MV)" by 코요태두리 (3:47)
+2026-09-22 12:05:36:   #2 [80.0] "[4K] 코요태 - 파란 MV 2001 4K AI Upscaling" by 하늘지기 OLD KPOP (3:44)
+2026-09-22 12:05:36:   #3 [70.0] "코요태 - '파란'" by Again 가요톱10 : KBS KPOP Classic (3:02)
+2026-09-22 12:05:36: [오후 12:05:36] GET /api/lyrics?title=%ED%8C%8C%EB%9E%80&artist=%EC%BD%94%EC%9A%94%ED%83%9C&source=all
+2026-09-22 12:06:27: [오후 12:06:27] GET /api/trending-keywords
+2026-09-22 12:07:27: [오후 12:07:27] GET /api/trending-keywords
+2026-09-22 12:08:27: [오후 12:08:27] GET /api/trending-keywords
+2026-09-22 12:08:56: [오후 12:08:56] GET /api/search?q=%EC%BD%94%EC%9A%94%ED%83%9C&source=flo
+2026-09-22 12:09:20: [오후 12:09:20] GET /api/search?q=%EC%BD%94%EC%9A%94%ED%83%9C&source=flo
+2026-09-22 12:09:22: [오후 12:09:22] GET /api/lyrics?title=%EB%B9%84%EB%AA%BD+X+%EC%99%9C+%EB%B6%88%EB%9F%AC&artist=%EC%8A%AC%EB%9F%AC%EC%8B%9C&source=all
+2026-09-22 12:09:23: [오후 12:09:23] GET /api/match?title=%EC%88%9C%EC%A0%95(%E7%B4%94%E6%83%85)+(London+Boys%EC%9D%98+I%27m+Gonna+Give+My+Heart+%EC%A0%84%EC%A3%BC+%EC%9D%B8%EC%9A%A9)&artist=%EC%BD%94%EC%9A%94%ED%83%9C
+2026-09-22 12:09:27: [오후 12:09:27] GET /api/trending-keywords
+2026-09-22 12:09:29: [matchYouTubeTrack (Official MV)] "순정(純情) (London Boys의 I'm Gonna Give My Heart 전주 인용) - 코요태" top candidates:
+2026-09-22 12:09:29:   #1 [120.0] "[MV]순정 - 코요태(Koyote)" by RIAK OFFICIAL (3:41)
+2026-09-22 12:09:29:   #2 [93.3] "코요태 순정(Koyote Soon Jung, Pure Love) MV (Origin of Gangnam Style dance ?)" by fingfan (3:41)
+2026-09-22 12:09:29:   #3 [73.3] "Koyote 순정 MV" by 추억 (3:41)
+2026-09-22 12:09:29: [오후 12:09:29] GET /api/lyrics?title=%EC%88%9C%EC%A0%95(%E7%B4%94%E6%83%85)+(London+Boys%EC%9D%98+I%27m+Gonna+Give+My+Heart+%EC%A0%84%EC%A3%BC+%EC%9D%B8%EC%9A%A9)&artist=%EC%BD%94%EC%9A%94%ED%83%9C&source=all
+2026-09-22 12:10:27: [오후 12:10:27] GET /api/trending-keywords
+2026-09-22 12:10:33: [오후 12:10:33] GET /api/search?q=%EC%BD%94%EC%9A%94%ED%83%9C&source=flo
+2026-09-22 12:10:39: [오후 12:10:39] GET /api/match?title=Passion&artist=%EC%BD%94%EC%9A%94%ED%83%9C
+2026-09-22 12:10:47: [matchYouTubeTrack (Official MV)] "Passion - 코요태" top candidates:
+2026-09-22 12:10:47:   #1 [80.0] "Koyote (코요태) - Passion (Music Video Ver.)" by ArirangSarang 아리랑사랑 (4:02)
+2026-09-22 12:10:47:   #2 [73.3] "Koyote - Passion (MV) 1080p" by Kpop 2GM (3:57)
+2026-09-22 12:10:47:   #3 [73.3] "Koyote - Passion MV" by xST3PH (4:01)
+2026-09-22 12:10:47: [오후 12:10:47] GET /api/lyrics?title=Passion&artist=%EC%BD%94%EC%9A%94%ED%83%9C&source=all
+2026-09-22 12:11:27: [오후 12:11:27] GET /api/trending-keywords
+2026-09-22 12:11:51: [오후 12:11:51] GET /api/search?q=%EC%BD%94%EC%9A%94%ED%83%9C&source=flo
+2026-09-22 12:12:25: [오후 12:12:25] GET /api/charts/melon
+2026-09-22 12:12:25: [오후 12:12:25] GET /api/trending-keywords
+2026-09-22 12:12:25: [오후 12:12:25] GET /api/charts/melon
+2026-09-22 12:12:25: [오후 12:12:25] GET /api/trending-keywords
+2026-09-22 12:13:26: [오후 12:13:26] GET /api/trending-keywords
+2026-09-22 12:14:26: [오후 12:14:26] GET /api/trending-keywords
+2026-09-22 12:15:26: [오후 12:15:26] GET /api/trending-keywords
+2026-09-22 12:16:26: [오후 12:16:26] GET /api/trending-keywords
+2026-09-22 12:17:26: [오후 12:17:26] GET /api/trending-keywords
+2026-09-22 12:18:26: [오후 12:18:26] GET /api/trending-keywords
+2026-09-22 12:20:13: [오후 12:20:13] GET /api/trending-keywords
+2026-09-22 12:21:13: [오후 12:21:13] GET /api/trending-keywords
+2026-09-22 12:22:13: [오후 12:22:13] GET /api/trending-keywords
+2026-09-22 12:23:13: [오후 12:23:13] GET /api/trending-keywords
+2026-09-22 12:24:13: [오후 12:24:13] GET /api/trending-keywords
+2026-09-22 12:25:13: [오후 12:25:13] GET /api/trending-keywords
+2026-09-22 12:26:13: [오후 12:26:13] GET /api/trending-keywords
+2026-09-22 12:27:13: [오후 12:27:13] GET /api/trending-keywords
+2026-09-22 12:28:13: [오후 12:28:13] GET /api/trending-keywords
+2026-09-22 12:29:13: [오후 12:29:13] GET /api/trending-keywords
+2026-09-22 12:30:13: [오후 12:30:13] GET /api/trending-keywords
+2026-09-22 12:31:13: [오후 12:31:13] GET /api/trending-keywords
+2026-09-22 12:32:13: [오후 12:32:13] GET /api/trending-keywords
+2026-09-22 12:33:13: [오후 12:33:13] GET /api/trending-keywords
+2026-09-22 12:34:13: [오후 12:34:13] GET /api/trending-keywords
+2026-09-22 12:35:13: [오후 12:35:13] GET /api/trending-keywords
+2026-09-22 12:36:13: [오후 12:36:13] GET /api/trending-keywords
+2026-09-22 12:37:13: [오후 12:37:13] GET /api/trending-keywords
+2026-09-22 12:38:13: [오후 12:38:13] GET /api/trending-keywords
+2026-09-22 12:39:13: [오후 12:39:13] GET /api/trending-keywords
+2026-09-22 12:40:13: [오후 12:40:13] GET /api/trending-keywords
+2026-09-22 12:41:13: [오후 12:41:13] GET /api/trending-keywords
+2026-09-22 12:42:13: [오후 12:42:13] GET /api/trending-keywords
+2026-09-22 12:43:13: [오후 12:43:13] GET /api/trending-keywords
+2026-09-22 12:44:13: [오후 12:44:13] GET /api/trending-keywords
+2026-09-22 12:45:13: [오후 12:45:13] GET /api/trending-keywords
+2026-09-22 12:46:13: [오후 12:46:13] GET /api/trending-keywords
+2026-09-22 12:47:13: [오후 12:47:13] GET /api/trending-keywords
+2026-09-22 12:48:13: [오후 12:48:13] GET /api/trending-keywords
+2026-09-22 12:49:13: [오후 12:49:13] GET /api/trending-keywords
+2026-09-22 12:50:13: [오후 12:50:13] GET /api/trending-keywords
+2026-09-22 12:51:13: [오후 12:51:13] GET /api/trending-keywords
+2026-09-22 12:52:13: [오후 12:52:13] GET /api/trending-keywords
+2026-09-22 12:53:13: [오후 12:53:13] GET /api/trending-keywords
+2026-09-22 12:54:13: [오후 12:54:13] GET /api/trending-keywords
+2026-09-22 12:54:25: [오후 12:54:25] GET /api/trending-keywords
+2026-09-22 12:54:47: [오후 12:54:47] GET /api/charts/melon
+2026-09-22 12:55:01: [오후 12:55:01] GET /api/match?title=Drowning&artist=WOODZ
+2026-09-22 12:55:09: [matchYouTubeTrack (Official MV)] "Drowning - WOODZ" top candidates:
+2026-09-22 12:55:09:   #1 [105.0] "Drowning (Drowning)" by WOODZ (4:05)
+2026-09-22 12:55:09:   #2 [93.3] "[MV] WOODZ(우즈) _ Drowning-(KOR/ENG/JP)" by Rosetta Studio (4:06)
+2026-09-22 12:55:09:   #3 [70.0] "WOODZ - Drowning (Lyrics)" by 7clouds K-pop (4:05)
+2026-09-22 12:55:09: [오후 12:55:09] GET /api/lyrics?title=Drowning&artist=WOODZ&source=all
+2026-09-22 12:55:23: [오후 12:55:23] GET /api/search?q=woodz&source=melon
+2026-09-22 12:55:25: [오후 12:55:25] GET /api/trending-keywords
+2026-09-22 12:55:29: [오후 12:55:29] GET /api/search?q=woodz&source=flo
+2026-09-22 12:55:38: [오후 12:55:38] GET /api/lyrics?title=Drowning&artist=WOODZ&source=spotify
+2026-09-22 12:55:40: [오후 12:55:40] GET /api/lyrics?title=Drowning&artist=WOODZ&source=melon
+2026-09-22 12:55:42: [오후 12:55:42] GET /api/lyrics?title=Drowning&artist=WOODZ&source=bugs
+2026-09-22 12:55:44: [오후 12:55:44] GET /api/lyrics?title=Drowning&artist=WOODZ&source=genie
+2026-09-22 12:55:52: [오후 12:55:52] GET /api/match?title=Pretty+Girl&artist=RESCENE%C2%A0(%EB%A6%AC%EC%84%BC%EB%8A%90)
+2026-09-22 12:55:58: [matchYouTubeTrack (Official MV)] "Pretty Girl - RESCENE (리센느)" top candidates:
+2026-09-22 12:55:58:   #1 [100.0] "RESCENE (리센느) 'Deja Vu' Official MV" by RESCENE (3:27)
+2026-09-22 12:55:58:   #2 [82.0] "RESCENE (리센느) - 'Pretty Girl' Special Video" by STONE MUSIC (3:34)
+2026-09-22 12:55:58:   #3 [81.0] "RESCENE (리센느) 'Pretty Girl' Special Video" by RESCENE (3:34)
+2026-09-22 12:55:58: [오후 12:55:58] GET /api/lyrics?title=Pretty+Girl&artist=RESCENE%C2%A0(%EB%A6%AC%EC%84%BC%EB%8A%90)&source=genie
+2026-09-22 12:56:01: [오후 12:56:01] GET /api/lyrics?title=Pretty+Girl&artist=RESCENE%C2%A0(%EB%A6%AC%EC%84%BC%EB%8A%90)&source=all
+2026-09-22 12:56:14: [오후 12:56:14] GET /api/match?title=Pretty+Girl&artist=RESCENE%C2%A0(%EB%A6%AC%EC%84%BC%EB%8A%90)
+2026-09-22 12:56:20: [matchYouTubeTrack (Official MV)] "Pretty Girl - RESCENE (리센느)" top candidates:
+2026-09-22 12:56:20:   #1 [100.0] "RESCENE (리센느) 'Deja Vu' Official MV" by RESCENE (3:27)
+2026-09-22 12:56:20:   #2 [82.0] "RESCENE (리센느) - 'Pretty Girl' Special Video" by STONE MUSIC (3:34)
+2026-09-22 12:56:20:   #3 [81.0] "RESCENE (리센느) 'Pretty Girl' Special Video" by RESCENE (3:34)
+2026-09-22 12:56:25: [오후 12:56:25] GET /api/trending-keywords
+2026-09-22 12:56:26: [오후 12:56:26] GET /api/charts/flo
+2026-09-22 12:56:33: [오후 12:56:33] GET /api/match?title=Pretty+Girl&artist=RESCENE+(%EB%A6%AC%EC%84%BC%EB%8A%90)
+2026-09-22 12:56:40: [matchYouTubeTrack (Official MV)] "Pretty Girl - RESCENE (리센느)" top candidates:
+2026-09-22 12:56:40:   #1 [82.0] "RESCENE (리센느) - 'Pretty Girl' Special Video" by STONE MUSIC (3:34)
+2026-09-22 12:56:40:   #2 [81.0] "RESCENE (리센느) 'Pretty Girl' Special Video" by RESCENE (3:34)
+2026-09-22 12:56:40:   #3 [81.0] "RESCENE 'Pretty Girl' Dance Practice" by RESCENE (3:33)
+2026-09-22 12:56:40: [오후 12:56:40] GET /api/match?title=Pretty+Girl&artist=RESCENE+(%EB%A6%AC%EC%84%BC%EB%8A%90)
+2026-09-22 12:56:40: [오후 12:56:40] GET /api/lyrics?title=Pretty+Girl&artist=RESCENE+(%EB%A6%AC%EC%84%BC%EB%8A%90)&source=all
+2026-09-22 12:56:55: [matchYouTubeTrack (Official MV)] "Pretty Girl - RESCENE (리센느)" top candidates:
+2026-09-22 12:56:55:   #1 [82.0] "RESCENE (리센느) - 'Pretty Girl' Special Video" by STONE MUSIC (3:34)
+2026-09-22 12:56:55:   #2 [81.0] "RESCENE (리센느) 'Pretty Girl' Special Video" by RESCENE (3:34)
+2026-09-22 12:56:55:   #3 [81.0] "RESCENE 'Pretty Girl' Dance Practice" by RESCENE (3:33)
+2026-09-22 12:57:25: [오후 12:57:25] GET /api/trending-keywords
+2026-09-22 12:57:47: [오후 12:57:47] GET /api/search?q=alldayproject&source=flo
+2026-09-22 12:57:50: [오후 12:57:50] GET /api/match?title=FAMOUS&artist=ALLDAY+PROJECT
+2026-09-22 12:57:57: [matchYouTubeTrack (Official MV)] "FAMOUS - ALLDAY PROJECT" top candidates:
+2026-09-22 12:57:57:   #1 [93.0] "ALLDAY PROJECT - ‘FAMOUS’ M/V" by THEBLACKLABEL and ALLDAY PROJECT (3:09)
+2026-09-22 12:57:57:   #2 [86.3] "ALLDAY PROJECT - “Famous” (Official Audio)" by ALLDAY PROJECT (3:00)
+2026-09-22 12:57:57:   #3 [73.0] "ALLDAY PROJECT - ‘FAMOUS’ PERFORMANCE VIDEO" by THEBLACKLABEL and ALLDAY PROJECT (3:19)
+2026-09-22 12:57:57: [오후 12:57:57] GET /api/lyrics?title=FAMOUS&artist=ALLDAY+PROJECT&source=all
+2026-09-22 12:58:25: [오후 12:58:25] GET /api/trending-keywords
+2026-09-22 12:58:34: [오후 12:58:34] GET /api/new-songs/melon
+2026-09-22 12:58:34: [오후 12:58:34] GET /api/new-songs/melon
+2026-09-22 12:59:25: [오후 12:59:25] GET /api/trending-keywords
+2026-09-22 12:59:43: [오후 12:59:43] GET /api/lyrics?title=FAMOUS&artist=ALLDAY+PROJECT&source=spotify
+2026-09-22 12:59:48: [오후 12:59:48] GET /api/lyrics?title=FAMOUS&artist=ALLDAY+PROJECT&source=flo
+2026-09-22 13:00:25: [오후 1:00:25] GET /api/trending-keywords
+2026-09-22 13:01:06: [오후 1:01:06] GET /api/lyrics?title=Pretty+Girl&artist=RESCENE+(%EB%A6%AC%EC%84%BC%EB%8A%90)&source=flo
+2026-09-22 13:01:09: [오후 1:01:09] GET /api/search?q=%EC%8A%88%ED%8D%BC%EC%A3%BC%EB%8B%88%EC%96%B4&source=flo
+2026-09-22 13:01:25: [오후 1:01:25] GET /api/trending-keywords
+2026-09-22 13:01:49: [오후 1:01:49] GET /api/search?q=Don+don&source=flo
+2026-09-22 13:02:03: [오후 1:02:03] GET /api/search?q=%EC%8A%88%ED%8D%BC%EC%A3%BC%EB%8B%88%EC%96%B4+Don+don&source=flo
+2026-09-22 13:02:09: [오후 1:02:09] GET /api/match?title=%EB%8F%88+%EB%8F%88!+(Don%27t+Don)&artist=SUPER+JUNIOR+(%EC%8A%88%ED%8D%BC%EC%A3%BC%EB%8B%88%EC%96%B4)
+2026-09-22 13:02:15: [matchYouTubeTrack (Official MV)] "돈 돈! (Don't Don) - SUPER JUNIOR (슈퍼주니어)" top candidates:
+2026-09-22 13:02:15:   #1 [115.0] "SUPER JUNIOR 슈퍼주니어 '돈 돈! (Don't Don)' MV" by SMTOWN (4:17)
+2026-09-22 13:02:15:   #2 [92.0] "SUPER JUNIOR 슈퍼주니어 'U' MV" by SMTOWN (4:29)
+2026-09-22 13:02:15:   #3 [90.0] "[A-ZONE] SUPER JUNIOR 슈퍼주니어 '돈 돈! (Don't Don)' MV" by WarzoneDG (4:11)
+2026-09-22 13:02:15: [오후 1:02:15] GET /api/lyrics?title=%EB%8F%88+%EB%8F%88!+(Don%27t+Don)&artist=SUPER+JUNIOR+(%EC%8A%88%ED%8D%BC%EC%A3%BC%EB%8B%88%EC%96%B4)&source=flo
+2026-09-22 13:02:25: [오후 1:02:25] GET /api/trending-keywords
+2026-09-22 13:03:25: [오후 1:03:25] GET /api/trending-keywords
+2026-09-22 13:03:25: [오후 1:03:25] GET /api/lyrics?title=%EB%8F%88+%EB%8F%88!+(Don%27t+Don)&artist=SUPER+JUNIOR+(%EC%8A%88%ED%8D%BC%EC%A3%BC%EB%8B%88%EC%96%B4)&source=melon
+2026-09-22 13:03:26: [오후 1:03:26] GET /api/lyrics?title=%EB%8F%88+%EB%8F%88!+(Don%27t+Don)&artist=SUPER+JUNIOR+(%EC%8A%88%ED%8D%BC%EC%A3%BC%EB%8B%88%EC%96%B4)&source=genie
+2026-09-22 13:03:27: [오후 1:03:27] GET /api/lyrics?title=%EB%8F%88+%EB%8F%88!+(Don%27t+Don)&artist=SUPER+JUNIOR+(%EC%8A%88%ED%8D%BC%EC%A3%BC%EB%8B%88%EC%96%B4)&source=bugs
+2026-09-22 13:04:18: [오후 1:04:18] GET /api/charts/flo
+2026-09-22 13:04:25: [오후 1:04:25] GET /api/trending-keywords
+2026-09-22 13:05:26: [오후 1:05:26] GET /api/trending-keywords
+2026-09-22 13:07:13: [오후 1:07:13] GET /api/trending-keywords
+2026-09-22 13:08:13: [오후 1:08:13] GET /api/trending-keywords
+2026-09-22 13:09:13: [오후 1:09:13] GET /api/trending-keywords
+2026-09-22 13:10:13: [오후 1:10:13] GET /api/trending-keywords
+2026-09-22 13:11:13: [오후 1:11:13] GET /api/trending-keywords
+2026-09-22 13:12:13: [오후 1:12:13] GET /api/trending-keywords
+2026-09-22 13:13:13: [오후 1:13:13] GET /api/trending-keywords
+2026-09-22 13:14:13: [오후 1:14:13] GET /api/trending-keywords
+2026-09-22 13:15:13: [오후 1:15:13] GET /api/trending-keywords
+2026-09-22 13:16:13: [오후 1:16:13] GET /api/trending-keywords
+2026-09-22 13:17:13: [오후 1:17:13] GET /api/trending-keywords
+2026-09-22 13:18:13: [오후 1:18:13] GET /api/trending-keywords
+2026-09-22 13:19:13: [오후 1:19:13] GET /api/trending-keywords
+2026-09-22 13:20:13: [오후 1:20:13] GET /api/trending-keywords
+2026-09-22 13:21:13: [오후 1:21:13] GET /api/trending-keywords
+2026-09-22 13:22:07: [오후 1:22:07] GET /api/trending-keywords
+2026-09-22 13:22:08: [오후 1:22:08] GET /api/charts/melon
+2026-09-22 13:22:08: [오후 1:22:08] GET /api/trending-keywords
+2026-09-22 13:22:08: [오후 1:22:08] GET /api/charts/melon
+2026-09-22 13:22:08: [오후 1:22:08] GET /api/trending-keywords
+2026-09-22 13:23:09: [오후 1:23:09] GET /api/trending-keywords
+2026-09-22 13:24:08: [오후 1:24:08] GET /api/trending-keywords
+2026-09-22 13:25:09: [오후 1:25:09] GET /api/trending-keywords
+2026-09-22 13:26:09: [오후 1:26:09] GET /api/trending-keywords
+2026-09-22 13:27:09: [오후 1:27:09] GET /api/trending-keywords
+2026-09-22 13:28:08: [오후 1:28:08] GET /api/trending-keywords
+2026-09-22 13:29:08: [오후 1:29:08] GET /api/trending-keywords
+2026-09-22 13:30:09: [오후 1:30:09] GET /api/trending-keywords
+2026-09-22 13:31:13: [오후 1:31:13] GET /api/trending-keywords
+2026-09-22 13:32:13: [오후 1:32:13] GET /api/trending-keywords
+2026-09-22 13:33:13: [오후 1:33:13] GET /api/trending-keywords
+2026-09-22 13:34:13: [오후 1:34:13] GET /api/trending-keywords
+2026-09-22 13:35:13: [오후 1:35:13] GET /api/trending-keywords
+2026-09-22 13:36:13: [오후 1:36:13] GET /api/trending-keywords
+2026-09-22 13:37:09: [오후 1:37:09] GET /api/trending-keywords
+2026-09-22 13:37:10: [오후 1:37:10] GET /api/search?q=%EB%88%88%EB%AC%BC%EC%B0%B8%EA%B8%B0&source=flo
+2026-09-22 13:37:15: [오후 1:37:15] GET /api/match?title=%EB%88%88%EB%AC%BC%EC%B0%B8%EA%B8%B0&artist=QWER
+2026-09-22 13:37:23: [matchYouTubeTrack (Official MV)] "눈물참기 - QWER" top candidates:
+2026-09-22 13:37:23:   #1 [100.0] "QWER 'Dear' Official MV" by QWER (5:03)
+2026-09-22 13:37:23:   #2 [90.0] "[MV] QWER _ Dear(눈물참기)" by 1theK (원더케이) (5:03)
+2026-09-22 13:37:23:   #3 [75.0] "[#AAA2025] QWER -‘INTRO+눈물참기’ Broadcast Stage | Official Video" by ASIA ARTIST AWARDS 스타뉴스 (4:20)
+2026-09-22 13:37:23: [오후 1:37:23] GET /api/lyrics?title=%EB%88%88%EB%AC%BC%EC%B0%B8%EA%B8%B0&artist=QWER&source=all
+2026-09-22 13:37:51: [오후 1:37:51] GET /api/lyrics?title=%EB%88%88%EB%AC%BC%EC%B0%B8%EA%B8%B0&artist=QWER&source=spotify
+2026-09-22 13:38:05: [오후 1:38:05] GET /api/lyrics?title=%EB%88%88%EB%AC%BC%EC%B0%B8%EA%B8%B0&artist=QWER&source=genie
+2026-09-22 13:38:07: [오후 1:38:07] GET /api/lyrics?title=%EB%88%88%EB%AC%BC%EC%B0%B8%EA%B8%B0&artist=QWER&source=melon
+2026-09-22 13:38:08: [오후 1:38:08] GET /api/trending-keywords
+2026-09-22 13:38:09: [오후 1:38:09] GET /api/lyrics?title=%EB%88%88%EB%AC%BC%EC%B0%B8%EA%B8%B0&artist=QWER&source=bugs
+2026-09-22 13:38:11: [오후 1:38:11] GET /api/lyrics?title=%EB%88%88%EB%AC%BC%EC%B0%B8%EA%B8%B0&artist=QWER&source=flo
+2026-09-22 13:38:13: [오후 1:38:13] GET /api/lyrics?title=%EB%88%88%EB%AC%BC%EC%B0%B8%EA%B8%B0&artist=QWER&source=youtube
+2026-09-22 13:39:08: [오후 1:39:08] GET /api/trending-keywords
+2026-09-22 13:40:08: [오후 1:40:08] GET /api/trending-keywords
+2026-09-22 13:41:08: [오후 1:41:08] GET /api/trending-keywords
+2026-09-22 13:42:09: [오후 1:42:09] GET /api/trending-keywords
+2026-09-22 13:43:08: [오후 1:43:08] GET /api/trending-keywords
+2026-09-22 13:43:26: [오후 1:43:26] GET /api/search?q=%EA%B9%80%EB%B0%A5&source=flo
+2026-09-22 13:43:29: [오후 1:43:29] GET /api/match?title=%EA%B9%80%EB%B0%A5&artist=%EB%8D%94+%EC%9E%90%EB%91%90
+2026-09-22 13:43:35: [matchYouTubeTrack (Official MV)] "김밥 - 더 자두" top candidates:
+2026-09-22 13:43:35:   #1 [101.7] "더 자두 (The Jadu) 3집  - '김밥' Official MV" by WEJHYS J 위지스제이 (5:51)
+2026-09-22 13:43:35:   #2 [95.0] "더 자두 - 김밥 MV" by 쿠오레 (5:51)
+2026-09-22 13:43:35:   #3 [80.0] "김밥 (Gimbap)" by 자두 JADU (3:46)
+2026-09-22 13:43:35: [오후 1:43:35] GET /api/lyrics?title=%EA%B9%80%EB%B0%A5&artist=%EB%8D%94+%EC%9E%90%EB%91%90&source=youtube
+2026-09-22 13:44:08: [오후 1:44:08] GET /api/trending-keywords
+2026-09-22 13:44:30: [오후 1:44:30] GET /api/search?q=%EA%B9%80%EB%B0%A5&source=flo
+2026-09-22 13:44:34: [오후 1:44:34] GET /api/match?title=%EA%B9%80%EB%B0%A5&artist=%EA%B9%80%EC%A7%80%EC%88%98,+%EC%9E%A5%EC%9E%AC%EC%9D%B8
+2026-09-22 13:44:39: [matchYouTubeTrack (Official MV)] "김밥 - 김지수, 장재인" top candidates:
+2026-09-22 13:44:39:   #1 [81.7] "더 자두 (The Jadu) 3집  - '김밥' Official MV" by WEJHYS J 위지스제이 (5:51)
+2026-09-22 13:44:39:   #2 [80.0] "김밥 (Kimbap) MV" by YJ (4:03)
+2026-09-22 13:44:39:   #3 [70.0] "김밥" by Kim Ji Soo - Topic (3:30)
+2026-09-22 13:44:39: [오후 1:44:39] GET /api/lyrics?title=%EA%B9%80%EB%B0%A5&artist=%EA%B9%80%EC%A7%80%EC%88%98,+%EC%9E%A5%EC%9E%AC%EC%9D%B8&source=youtube
+2026-09-22 13:45:04: [오후 1:45:04] GET /api/search?q=%ED%8F%BC%EC%83%9D%ED%8F%BC%EC%82%AC&source=flo
+2026-09-22 13:45:09: [오후 1:45:09] GET /api/trending-keywords
+2026-09-22 13:45:14: [오후 1:45:14] GET /api/match?title=%EC%82%AC%EB%82%98%EC%9D%B4+%EA%B0%80%EB%8A%94+%EA%B8%B8+(%ED%8F%BC%EC%83%9D%ED%8F%BC%EC%82%AC)&artist=%EC%A0%9D%EC%8A%A4%ED%82%A4%EC%8A%A4
+2026-09-22 13:45:20: [matchYouTubeTrack (Official MV)] "사나이 가는 길 (폼생폼사) - 젝스키스" top candidates:
+2026-09-22 13:45:20:   #1 [115.0] "4K 【㉭】젝스키스 사나이 가는 길 [OFFICIAL MUSIC VIDEO]" by 홍픽쳐스 (3:48)
+2026-09-22 13:45:20:   #2 [95.0] "[MV]  젝스키스 - 사나이 가는 길(폼생폼사) original.ver (1997)" by k2R reverse (3:52)
+2026-09-22 13:45:20:   #3 [72.5] "(1997) 젝스키스(SECHSKIES) - 사나이 가는 길 (폼생폼사) [싱크가사/Lyric Video]" by 디스크맨 Discman (4:00)
+2026-09-22 13:45:20: [오후 1:45:20] GET /api/lyrics?title=%EC%82%AC%EB%82%98%EC%9D%B4+%EA%B0%80%EB%8A%94+%EA%B8%B8+(%ED%8F%BC%EC%83%9D%ED%8F%BC%EC%82%AC)&artist=%EC%A0%9D%EC%8A%A4%ED%82%A4%EC%8A%A4&source=youtube
+2026-09-22 13:45:22: [오후 1:45:22] GET /api/lyrics?title=%EA%B9%80%EB%B0%A5&artist=%EB%8D%94+%EC%9E%90%EB%91%90&source=youtube
+2026-09-22 13:45:31: [오후 1:45:31] GET /api/lyrics?title=%EC%82%AC%EB%82%98%EC%9D%B4+%EA%B0%80%EB%8A%94+%EA%B8%B8+(%ED%8F%BC%EC%83%9D%ED%8F%BC%EC%82%AC)&artist=%EC%A0%9D%EC%8A%A4%ED%82%A4%EC%8A%A4&source=youtube
+2026-09-22 13:45:39: [오후 1:45:39] GET /api/search?q=%ED%8F%BC%EC%83%9D%ED%8F%BC%EC%82%AC&source=flo
+2026-09-22 13:45:46: [오후 1:45:46] GET /api/match?title=%EC%82%AC%EB%82%98%EC%9D%B4+%EA%B0%80%EB%8A%94%EA%B8%B8+(%ED%8F%BC%EC%83%9D%ED%8F%BC%EC%82%AC)&artist=%EC%A0%9D%EC%8A%A4%ED%82%A4%EC%8A%A4
+2026-09-22 13:45:55: [matchYouTubeTrack (Official MV)] "사나이 가는길 (폼생폼사) - 젝스키스" top candidates:
+2026-09-22 13:45:55:   #1 [84.0] "4K 【㉭】젝스키스 사나이 가는 길 [OFFICIAL MUSIC VIDEO]" by 홍픽쳐스 (3:48)
+2026-09-22 13:45:55:   #2 [70.0] "[MV] SECHSKIES(젝스키스) _ 커플" by 1theK (원더케이) (4:07)
+2026-09-22 13:45:55:   #3 [37.5] "(1997) 젝스키스(SECHSKIES) - 사나이 가는 길 (폼생폼사) [싱크가사/Lyric Video]" by 디스크맨 Discman (4:00)
+2026-09-22 13:45:55: [오후 1:45:55] GET /api/lyrics?title=%EC%82%AC%EB%82%98%EC%9D%B4+%EA%B0%80%EB%8A%94%EA%B8%B8+(%ED%8F%BC%EC%83%9D%ED%8F%BC%EC%82%AC)&artist=%EC%A0%9D%EC%8A%A4%ED%82%A4%EC%8A%A4&source=youtube
+2026-09-22 13:46:08: [오후 1:46:08] GET /api/trending-keywords
+2026-09-22 13:46:10: [오후 1:46:10] GET /api/search?q=%EB%AB%BC%EB%B9%84%EC%9A%B0%EC%8A%A4%EC%9D%98+%EB%9D%A0&source=flo
+2026-09-22 13:46:20: [오후 1:46:20] GET /api/match?title=%EB%AB%BC%EB%B9%84%EC%9A%B0%EC%8A%A4%EC%9D%98+%EB%9D%A0+(Remix)&artist=%EC%A0%9D%EC%8A%A4%ED%82%A4%EC%8A%A4
+2026-09-22 13:46:26: [matchYouTubeTrack (Official MV)] "뫼비우스의 띠 (Remix) - 젝스키스" top candidates:
+2026-09-22 13:46:26:   #1 [71.7] "젝스키스(Sechs Kies) 뫼비우스의 띠(Original) (가사 첨부)" by HANKOOK NORE (3:24)
+2026-09-22 13:46:26:   #2 [71.7] "젝스키스(Sechs Kies)  뫼비우스의 띠(Remix) (가사 첨부)" by HANKOOK NORE (3:08)
+2026-09-22 13:46:26:   #3 [53.3] "170923 젝스키스(SECHSKIES) - Com'Back & 뫼비우스의 띠(Mobius strip)" by Ye-seul (4:43)
+2026-09-22 13:46:26: [오후 1:46:26] GET /api/lyrics?title=%EB%AB%BC%EB%B9%84%EC%9A%B0%EC%8A%A4%EC%9D%98+%EB%9D%A0+(Remix)&artist=%EC%A0%9D%EC%8A%A4%ED%82%A4%EC%8A%A4&source=youtube
+2026-09-22 13:46:35: [오후 1:46:35] GET /api/lyrics?title=%EB%AB%BC%EB%B9%84%EC%9A%B0%EC%8A%A4%EC%9D%98+%EB%9D%A0+(Remix)&artist=%EC%A0%9D%EC%8A%A4%ED%82%A4%EC%8A%A4&source=all
+2026-09-22 13:46:49: [오후 1:46:49] GET /api/lyrics?title=%EB%AB%BC%EB%B9%84%EC%9A%B0%EC%8A%A4%EC%9D%98+%EB%9D%A0+(Remix)&artist=%EC%A0%9D%EC%8A%A4%ED%82%A4%EC%8A%A4&source=spotify
+2026-09-22 13:46:53: [오후 1:46:53] GET /api/lyrics?title=%EB%AB%BC%EB%B9%84%EC%9A%B0%EC%8A%A4%EC%9D%98+%EB%9D%A0+(Remix)&artist=%EC%A0%9D%EC%8A%A4%ED%82%A4%EC%8A%A4&source=melon
+2026-09-22 13:46:56: [오후 1:46:56] GET /api/lyrics?title=%EB%AB%BC%EB%B9%84%EC%9A%B0%EC%8A%A4%EC%9D%98+%EB%9D%A0+(Remix)&artist=%EC%A0%9D%EC%8A%A4%ED%82%A4%EC%8A%A4&source=bugs
+2026-09-22 13:47:08: [오후 1:47:08] GET /api/trending-keywords
+2026-09-22 13:47:16: [오후 1:47:16] GET /api/search?q=com%27back&source=flo
+2026-09-22 13:47:20: [오후 1:47:20] GET /api/match?title=Com%60+Back&artist=%EC%A0%9D%EC%8A%A4%ED%82%A4%EC%8A%A4
+2026-09-22 13:47:25: [matchYouTubeTrack (Official MV)] "Com` Back - 젝스키스" top candidates:
+2026-09-22 13:47:25:   #1 [97.5] "[MV] 젝스키스 _ Com' Back" by flifli98 (3:52)
+2026-09-22 13:47:25:   #2 [71.7] "젝스키스(Sechs Kies) Com' Back(컴백) (가사 첨부)" by HANKOOK NORE (3:53)
+2026-09-22 13:47:25:   #3 [65.0] "Com` Back" by SECHSKIES (3:53)
+2026-09-22 13:47:25: [오후 1:47:25] GET /api/lyrics?title=Com%60+Back&artist=%EC%A0%9D%EC%8A%A4%ED%82%A4%EC%8A%A4&source=bugs
+2026-09-22 13:47:30: [오후 1:47:30] GET /api/lyrics?title=Com%60+Back&artist=%EC%A0%9D%EC%8A%A4%ED%82%A4%EC%8A%A4&source=all
+2026-09-22 13:48:09: [오후 1:48:09] GET /api/trending-keywords
+2026-09-22 13:48:43: [오후 1:48:43] GET /api/search?q=%ED%96%89%EB%B3%B5&source=flo
+2026-09-22 13:49:08: [오후 1:49:08] GET /api/search?q=%ED%96%89%EB%B3%B5&source=flo
+2026-09-22 13:49:08: [오후 1:49:08] GET /api/trending-keywords
+2026-09-22 13:49:11: [오후 1:49:11] GET /api/match?title=%ED%96%89%EB%B3%B5&artist=H.O.T.
+2026-09-22 13:49:16: [matchYouTubeTrack (Official MV)] "행복 - H.O.T." top candidates:
+2026-09-22 13:49:16:   #1 [121.0] "H.O.T. '행복 (Full Of Happiness)' MV" by SMTOWN (3:48)
+2026-09-22 13:49:16:   #2 [102.5] "[MV] H.O.T.-행복(幸福)" by YingHui LU (3:50)
+2026-09-22 13:49:16:   #3 [96.0] "[MV] H.O.T. - 행복.wmv" by JANGWOOHYUK (3:53)
+2026-09-22 13:49:16: [오후 1:49:16] GET /api/lyrics?title=%ED%96%89%EB%B3%B5&artist=H.O.T.&source=all
+2026-09-22 13:50:02: [오후 1:50:02] GET /api/lyrics?title=%ED%96%89%EB%B3%B5&artist=H.O.T.&source=bugs
+2026-09-22 13:50:06: [오후 1:50:06] GET /api/lyrics?title=%ED%96%89%EB%B3%B5&artist=H.O.T.&source=all
+2026-09-22 13:50:09: [오후 1:50:09] GET /api/trending-keywords
+2026-09-22 13:50:45: [오후 1:50:45] GET /api/search?q=%EC%A0%84%EC%82%AC%EC%9D%98+%ED%9B%84%EC%98%88&source=flo
+2026-09-22 13:50:48: [오후 1:50:48] GET /api/match?title=%EC%A0%84%EC%82%AC%EC%9D%98+%ED%9B%84%EC%98%88+(%ED%8F%AD%EB%A0%A5%EC%8B%9C%EB%8C%80)&artist=H.O.T.
+2026-09-22 13:50:54: [matchYouTubeTrack (Official MV)] "전사의 후예 (폭력시대) - H.O.T." top candidates:
+2026-09-22 13:50:54:   #1 [123.3] "H.O.T. '전사의 후예 (폭력시대) (Age of Violence)' MV" by SMTOWN (4:28)
+2026-09-22 13:50:54:   #2 [99.2] "H.O.T. 1집 전사의 후예mv" by H.O.T. fan (4:30)
+2026-09-22 13:50:54:   #3 [98.3] "MV H O T    전사의 후예" by JANGWOOHYUK (4:23)
+2026-09-22 13:50:54: [오후 1:50:54] GET /api/lyrics?title=%EC%A0%84%EC%82%AC%EC%9D%98+%ED%9B%84%EC%98%88+(%ED%8F%AD%EB%A0%A5%EC%8B%9C%EB%8C%80)&artist=H.O.T.&source=all
+2026-09-22 13:51:08: [오후 1:51:08] GET /api/trending-keywords
+2026-09-22 13:52:09: [오후 1:52:09] GET /api/trending-keywords
+2026-09-22 13:53:09: [오후 1:53:09] GET /api/trending-keywords
+2026-09-22 13:54:08: [오후 1:54:08] GET /api/trending-keywords
+2026-09-22 13:54:59: [오후 1:54:59] GET /api/search?q=god&source=flo
+2026-09-22 13:55:08: [오후 1:55:08] GET /api/trending-keywords
+2026-09-22 13:55:09: [오후 1:55:09] GET /api/match?title=%EA%B8%B8&artist=%EC%A7%80%EC%98%A4%EB%94%94+(god)
+2026-09-22 13:55:15: [matchYouTubeTrack (Official MV)] "길 - 지오디 (god)" top candidates:
+2026-09-22 13:55:15:   #1 [120.0] "[MV] 지오디 (god) - 길" by RIAK OFFICIAL (6:05)
+2026-09-22 13:55:15:   #2 [98.3] "[MV] GOD _ 길" by 1theK (원더케이) (6:05)
+2026-09-22 13:55:15:   #3 [95.0] "길" by 지오디 (god) - Topic (3:47)
+2026-09-22 13:55:15: [오후 1:55:15] GET /api/lyrics?title=%EA%B8%B8&artist=%EC%A7%80%EC%98%A4%EB%94%94+(god)&source=all
+2026-09-22 13:56:04: [오후 1:56:04] GET /api/search?q=god&source=flo
+2026-09-22 13:56:08: [오후 1:56:08] GET /api/trending-keywords
+2026-09-22 13:56:11: [오후 1:56:11] GET /api/match?title=%EC%95%A0%EC%88%98(%E5%93%80%E6%84%81)&artist=%EC%A7%80%EC%98%A4%EB%94%94+(god)
+2026-09-22 13:56:16: [matchYouTubeTrack (Official MV)] "애수(哀愁) - 지오디 (god)" top candidates:
+2026-09-22 13:56:16:   #1 [60.0] "god(지오디) '거짓말(Lies)' OFFICIAL MV" by god (5:04)
+2026-09-22 13:56:16:   #2 [45.0] "god - Sorrow, 지오디 - 애수, Music Camp 20000226" by MBCkpop (4:01)
+2026-09-22 13:56:16:   #3 [45.0] "[HD] G.O.D - Sorrow / Sadness MV ENG SUB / ROM (지오디 - 애수 뮤직비디오 HD)" by GrooveOverSubs (3:04)
+2026-09-22 13:56:16: [오후 1:56:16] GET /api/lyrics?title=%EC%95%A0%EC%88%98(%E5%93%80%E6%84%81)&artist=%EC%A7%80%EC%98%A4%EB%94%94+(god)&source=all
+2026-09-22 13:56:31: [오후 1:56:31] GET /api/search?q=god&source=flo
+2026-09-22 13:56:34: [오후 1:56:34] GET /api/match?title=Friday+Night&artist=%EC%A7%80%EC%98%A4%EB%94%94+(god)
+2026-09-22 13:56:41: [matchYouTubeTrack (Official MV)] "Friday Night - 지오디 (god)" top candidates:
+2026-09-22 13:56:41:   #1 [95.0] "Friday Night" by 지오디 (god) - Topic (3:36)
+2026-09-22 13:56:41:   #2 [95.0] "Friday night (Friday night)" by 지오디 (god) - Topic (4:46)
+2026-09-22 13:56:41:   #3 [80.0] "[MV] god _ Saturday Night" by 1theK (원더케이) (6:22)
+2026-09-22 13:56:41: [오후 1:56:41] GET /api/lyrics?title=Friday+Night&artist=%EC%A7%80%EC%98%A4%EB%94%94+(god)&source=all
+2026-09-22 13:57:08: [오후 1:57:08] GET /api/trending-keywords
+2026-09-22 13:58:08: [오후 1:58:08] GET /api/trending-keywords
+2026-09-22 13:59:09: [오후 1:59:09] GET /api/trending-keywords
+2026-09-22 14:00:08: [오후 2:00:08] GET /api/trending-keywords
+2026-09-22 14:00:16: [오후 2:00:16] GET /api/lyrics?title=%EC%95%A0%EC%88%98(%E5%93%80%E6%84%81)&artist=%EC%A7%80%EC%98%A4%EB%94%94+(god)&source=all
+2026-09-22 14:01:09: [오후 2:01:08] GET /api/trending-keywords
+2026-09-22 14:02:08: [오후 2:02:08] GET /api/trending-keywords
+2026-09-22 14:03:08: [오후 2:03:08] GET /api/trending-keywords
+2026-09-22 14:03:32: [오후 2:03:32] GET /api/search?q=god&source=flo
+2026-09-22 14:03:35: [오후 2:03:35] GET /api/match?title=%EA%B4%80%EC%B0%B0&artist=%EC%A7%80%EC%98%A4%EB%94%94+(god)
+2026-09-22 14:03:42: [matchYouTubeTrack (Official MV)] "관찰 - 지오디 (god)" top candidates:
+2026-09-22 14:03:42:   #1 [85.0] "god(지오디) '관찰(Observation)' OFFICIAL MV" by god (4:26)
+2026-09-22 14:03:42:   #2 [70.0] "G.O.D (지.오.디) - 관찰 (Observation) [Music Video Version]" by ACE'SANTUARY  (3:52)
+2026-09-22 14:03:42:   #3 [46.7] "g.o.d 관찰 Observation 지오디" by Son (3:37)
+2026-09-22 14:03:42: [오후 2:03:42] GET /api/lyrics?title=%EA%B4%80%EC%B0%B0&artist=%EC%A7%80%EC%98%A4%EB%94%94+(god)&source=all
+2026-09-22 14:04:02: [오후 2:04:02] GET /api/search?q=%ED%81%B4%EB%A1%A0&source=flo
+2026-09-22 14:04:05: [오후 2:04:05] GET /api/match?title=%EC%B4%88%EB%A0%A8&artist=%ED%81%B4%EB%A1%A0
+2026-09-22 14:04:08: [오후 2:04:08] GET /api/trending-keywords
+2026-09-22 14:04:11: [matchYouTubeTrack (Official MV)] "초련 - 클론" top candidates:
+2026-09-22 14:04:11:   #1 [95.0] "초련 (First Love)" by 클론 (Clon) - Topic (4:10)
+2026-09-22 14:04:11:   #2 [95.0] "초련 (初戀) (First Love) (Techno Mix Ver.)" by 클론 (Clon) - Topic (4:10)
+2026-09-22 14:04:11:   #3 [95.0] "초련 (初戀) (First Love) (Original Mix)" by 클론 (Clon) - Topic (3:47)
+2026-09-22 14:04:11: [오후 2:04:11] GET /api/lyrics?title=%EC%B4%88%EB%A0%A8&artist=%ED%81%B4%EB%A1%A0&source=all
+2026-09-22 14:05:08: [오후 2:05:08] GET /api/trending-keywords
+2026-09-22 14:06:08: [오후 2:06:08] GET /api/trending-keywords
+2026-09-22 14:07:09: [오후 2:07:09] GET /api/trending-keywords
+2026-09-22 14:08:08: [오후 2:08:08] GET /api/trending-keywords
+2026-09-22 14:08:21: [오후 2:08:21] GET /api/lyrics?title=%EA%B4%80%EC%B0%B0&artist=%EC%A7%80%EC%98%A4%EB%94%94+(god)&source=all
+2026-09-22 14:09:08: [오후 2:09:08] GET /api/trending-keywords
+2026-09-22 14:10:08: [오후 2:10:08] GET /api/trending-keywords
+2026-09-22 14:11:08: [오후 2:11:08] GET /api/trending-keywords
+2026-09-22 14:12:08: [오후 2:12:08] GET /api/trending-keywords
+2026-09-22 14:13:09: [오후 2:13:09] GET /api/trending-keywords
+2026-09-22 14:14:13: [오후 2:14:13] GET /api/trending-keywords
+2026-09-22 14:15:13: [오후 2:15:13] GET /api/trending-keywords
+2026-09-22 14:16:13: [오후 2:16:13] GET /api/trending-keywords
+2026-09-22 14:17:13: [오후 2:17:13] GET /api/trending-keywords
+2026-09-22 14:18:03: [오후 2:18:03] GET /api/search?q=%ED%81%B4%EB%A1%A0&source=flo
+2026-09-22 14:18:07: [오후 2:18:07] GET /api/match?title=%EB%8F%8C%EC%95%84%EC%99%80+(feat.+%EA%B9%80%ED%83%9C%EC%98%81)&artist=%ED%81%B4%EB%A1%A0
+2026-09-22 14:18:08: [오후 2:18:08] GET /api/trending-keywords
+2026-09-22 14:18:12: [matchYouTubeTrack (Official MV)] "돌아와 (feat. 김태영) - 클론" top candidates:
+2026-09-22 14:18:12:   #1 [99.0] "클론(CLON) - 돌아와 OFFICIAL M/V" by 라인음향 (4:53)
+2026-09-22 14:18:12:   #2 [95.0] "돌아와 (Come Back)" by 클론 (Clon) - Topic (4:10)
+2026-09-22 14:18:12:   #3 [78.8] "K POP♩1999년 클론 Clon   돌아와 Dorawa MV" by 나쁜녀석들김두한선배님 (4:51)
+2026-09-22 14:18:12: [오후 2:18:12] GET /api/lyrics?title=%EB%8F%8C%EC%95%84%EC%99%80+(feat.+%EA%B9%80%ED%83%9C%EC%98%81)&artist=%ED%81%B4%EB%A1%A0&source=all
+2026-09-22 14:19:09: [오후 2:19:09] GET /api/trending-keywords
+2026-09-22 14:20:08: [오후 2:20:08] GET /api/trending-keywords
+2026-09-22 14:21:08: [오후 2:21:08] GET /api/trending-keywords
+2026-09-22 14:22:08: [오후 2:22:08] GET /api/trending-keywords
+2026-09-22 14:23:06: [오후 2:23:06] GET /api/lyrics?title=%EC%B4%88%EB%A0%A8&artist=%ED%81%B4%EB%A1%A0&source=all
+2026-09-22 14:23:08: [오후 2:23:08] GET /api/trending-keywords
+2026-09-22 14:24:08: [오후 2:24:08] GET /api/trending-keywords
+2026-09-22 14:25:08: [오후 2:25:08] GET /api/trending-keywords
+2026-09-22 14:26:08: [오후 2:26:08] GET /api/trending-keywords
+2026-09-22 14:27:08: [오후 2:27:08] GET /api/trending-keywords
+2026-09-22 14:27:16: [오후 2:27:16] GET /api/lyrics?title=%EA%B4%80%EC%B0%B0&artist=%EC%A7%80%EC%98%A4%EB%94%94+(god)&source=all
+2026-09-22 14:27:47: [오후 2:27:47] GET /api/search?q=%ED%81%B4%EB%A1%A0&source=flo
+2026-09-22 14:27:52: [오후 2:27:52] GET /api/match?title=%EB%82%9C&artist=%ED%81%B4%EB%A1%A0
+2026-09-22 14:27:58: [matchYouTubeTrack (Official MV)] "난 - 클론" top candidates:
+2026-09-22 14:27:58:   #1 [99.0] "클론(CLON) - 난 OFFICIAL M/V" by 라인음향 (4:49)
+2026-09-22 14:27:58:   #2 [95.0] "난! (I)" by 클론 (Clon) - Topic (3:59)
+2026-09-22 14:27:58:   #3 [95.0] "난 (I)" by 클론 (Clon) - Topic (3:58)
+2026-09-22 14:27:58: [오후 2:27:58] GET /api/lyrics?title=%EB%82%9C&artist=%ED%81%B4%EB%A1%A0&source=all
+2026-09-22 14:28:08: [오후 2:28:08] GET /api/trending-keywords
+2026-09-22 14:29:08: [오후 2:29:08] GET /api/trending-keywords
+2026-09-22 14:30:08: [오후 2:30:08] GET /api/trending-keywords
+2026-09-22 14:31:08: [오후 2:31:08] GET /api/trending-keywords
+2026-09-22 14:32:08: [오후 2:32:08] GET /api/trending-keywords
+2026-09-22 14:32:47: [오후 2:32:47] GET /api/lyrics?title=%EB%8F%8C%EC%95%84%EC%99%80+(feat.+%EA%B9%80%ED%83%9C%EC%98%81)&artist=%ED%81%B4%EB%A1%A0&source=all

@@ -1,0 +1,40 @@
+module.exports = {
+  apps: [
+    {
+      name: 'wmp-server',
+      script: 'src/index.js',
+      cwd: './server',
+      interpreter: 'node',
+      watch: false,
+      autorestart: true,
+      restart_delay: 3000,
+      max_restarts: 10,
+      env: {
+        NODE_ENV: 'production',
+        PORT: 3001,
+      },
+      log_date_format: 'YYYY-MM-DD HH:mm:ss',
+      error_file: '../logs/server-error.log',
+      out_file: '../logs/server-out.log',
+      merge_logs: true,
+    },
+    {
+      name: 'wmp-client',
+      script: './node_modules/vite/bin/vite.js',
+      cwd: './client',
+      args: '--host 0.0.0.0 --port 8080',
+      interpreter: 'node',
+      watch: false,
+      autorestart: true,
+      restart_delay: 3000,
+      max_restarts: 10,
+      env: {
+        NODE_ENV: 'development',
+      },
+      log_date_format: 'YYYY-MM-DD HH:mm:ss',
+      error_file: '../logs/client-error.log',
+      out_file: '../logs/client-out.log',
+      merge_logs: true,
+    },
+  ],
+};

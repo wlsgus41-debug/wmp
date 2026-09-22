@@ -1,0 +1,13 @@
+{
+  "name": "world-music-player",
+  "version": "1.0.0",
+  "description": "YouTube Audio Music Player with Real-time Korean Charts & Multi-source Lyrics",
+  "scripts": {
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client dev",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "keywords": ["music", "player", "youtube", "melon", "genie", "bugs", "lyrics"],
+  "author": "",
+  "license": "MIT"
+}
