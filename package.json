@@ -7,7 +7,18 @@
     "client": "npm --prefix client dev",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "keywords": ["music", "player", "youtube", "melon", "genie", "bugs", "lyrics"],
+  "keywords": [
+    "music",
+    "player",
+    "youtube",
+    "melon",
+    "genie",
+    "bugs",
+    "lyrics"
+  ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^10.0.5"
+  }
 }
